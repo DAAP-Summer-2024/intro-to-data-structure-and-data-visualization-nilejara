@@ -1,0 +1,4194 @@
+	1999 BRFSS Codebook
+	
+	Tuesday, August 08, 2000
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Note:  When a question is not asked or responses are not reported for a value(s) 
+	of a question, the frequency, percent, and weighted percent will not be displayed 
+	in the Codebook.
+	Page 1 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	State FIPS Code
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  1-2	SAS Variable Name:  	_STATE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	Alabama	2097	1.31	1.59
+	02	Alaska	2051	1.28	0.21
+	04	Arizona	1744	1.09	1.69
+	05	Arkansas	2997	1.87	0.92
+	06	California	4304	2.69	11.78
+	08	Colorado	3053	1.91	1.45
+	09	Connecticut	3517	2.20	1.22
+	10	Delaware	2561	1.60	0.27
+	11	District of Columbia	1267	0.79	0.20
+	12	Florida	5245	3.28	5.70
+	13	Georgia	2273	1.42	2.78
+	15	Hawaii	2156	1.35	0.44
+	16	Idaho	4955	3.10	0.43
+	17	Illinois	2910	1.82	4.37
+	18	Indiana	2443	1.53	2.14
+	19	Iowa	3618	2.26	1.04
+	20	Kansas	3878	2.42	0.95
+	21	Kentucky	7543	4.71	1.44
+	22	Louisiana	1670	1.04	1.53
+	23	Maine	1673	1.05	0.46
+	24	Maryland	3959	2.47	1.89
+	25	Massachusetts	5024	3.14	2.31
+	26	Michigan	2522	1.58	3.54
+	27	Minnesota	5340	3.34	1.70
+	28	Mississippi	2180	1.36	0.97
+	29	Missouri	4277	2.67	1.98
+	30	Montana	1798	1.12	0.31
+	31	Nebraska	2824	1.77	0.60
+	32	Nevada	2187	1.37	0.65
+	33	New Hampshire	1248	0.78	0.44
+	34	New Jersey	2822	1.76	3.04
+	Page 2 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	State FIPS Code
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  1-2	SAS Variable Name:  	_STATE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	35	New Mexico	3488	2.18	0.60
+	36	New York	2650	1.66	6.74
+	37	North Carolina	2445	1.53	2.83
+	38	North Dakota	1981	1.24	0.23
+	39	Ohio	1638	1.02	4.07
+	40	Oklahoma	2968	1.86	1.21
+	41	Oregon	1808	1.13	1.20
+	42	Pennsylvania	3559	2.22	4.47
+	44	Rhode Island	4003	2.50	0.37
+	45	South Carolina	3468	2.17	1.40
+	46	South Dakota	4151	2.59	0.26
+	47	Tennessee	3015	1.88	2.01
+	48	Texas	4990	3.12	7.02
+	49	Utah	3195	2.00	0.67
+	50	Vermont	3163	1.98	0.22
+	51	Virginia	3502	2.19	2.52
+	53	Washington	3608	2.26	2.07
+	54	West Virginia	2589	1.62	0.67
+	55	Wisconsin	2177	1.36	1.89
+	56	Wyoming	2403	1.50	0.17
+	72	Puerto Rico	3052	1.91	1.34
+	Geographic Stratum
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  3-4	SAS Variable Name:  	_GEOSTR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Page 3 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Density Stratum (Usually 0 and 1+ Hundred Banks)
+	Section: 	Identification Information	Type: 	ID Field
+	Column:  5	SAS Variable Name:  	_DENSTR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Primary Sampling Unit
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  6-11	SAS Variable Name:  	_PSU
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Record Number
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  12-13	SAS Variable Name:  	_RECORD
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Date of Interview
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  14-21	SAS Variable Name:  	IDATE (Character)
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Page 4 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Month of Interview
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  14-15	SAS Variable Name:  	IMONTH (Character)
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	January	10855	6.78	7.90
+	02	February	13384	8.37	9.01
+	03	March	13356	8.35	8.44
+	04	April	13261	8.29	8.18
+	05	May	12854	8.03	8.23
+	06	June	13293	8.31	8.08
+	07	July	14022	8.76	8.58
+	08	August	13640	8.53	8.63
+	09	September	13230	8.27	7.72
+	10	October	14140	8.84	8.77
+	11	November	13962	8.73	8.15
+	12	December	13992	8.75	8.32
+	Page 5 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Day of Interview
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  16-17	SAS Variable Name:  	IDAY (Character)
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	5756	3.60	4.18
+	02	6465	4.04	4.60
+	03	6570	4.11	4.32
+	04	6359	3.97	4.05
+	05	6249	3.91	4.07
+	06	6823	4.26	4.29
+	07	7070	4.42	4.51
+	08	8512	5.32	5.24
+	09	7550	4.72	4.52
+	10	7310	4.57	4.25
+	11	7402	4.63	4.16
+	12	7296	4.56	4.09
+	13	7827	4.89	4.42
+	14	7352	4.60	4.13
+	15	7125	4.45	4.22
+	16	6163	3.85	3.78
+	17	5375	3.36	3.24
+	18	4838	3.02	2.92
+	19	4812	3.01	2.96
+	20	4430	2.77	2.80
+	21	4221	2.64	2.73
+	22	3885	2.43	2.45
+	23	3333	2.08	2.13
+	24	2787	1.74	1.83
+	25	3165	1.98	2.19
+	26	2431	1.52	1.63
+	27	2378	1.49	1.69
+	28	2015	1.26	1.36
+	29	1684	1.05	1.17
+	30	1514	0.95	1.15
+	31	1292	0.81	0.91
+	Page 6 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Day of Interview
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  16-17	SAS Variable Name:  	IDAY (Character)
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Year of Interview
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  18-21	SAS Variable Name:  	IYEAR (Character)
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1999	159871	99.93	99.83
+	2000	118	0.07	0.17
+	Interviewer ID
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  22-23	SAS Variable Name:  	INTVID (Character)
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Columns 24-31
+	Section: 	Identification Information	Type: 	Miscellaneous
+	Columns:  24-31	SAS Variable Name:  	Columns 24-31
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Blank	Intentionally Left Blank
+	Page 7 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Disposition of Interview
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  32-33	SAS Variable Name:  	DISPCODE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	Completed Interview	159989	100.00	100.00
+	Interview According to Waksberg Design
+	Section: 	Identification Information	Type: 	ID Field
+	Column:  34	SAS Variable Name:  	WINDDOWN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	9	Final Disposition in winddown	257	100.00	100.00
+	Blank	Final Disposition in regular mode	159732
+	Sequence Number
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  35-44	SAS Variable Name:  	SEQNO
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Page 8 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Number of Attempts
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  45-46	SAS Variable Name:  	NATTMPTS
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Number of Sample Records Selected From Stratum
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  47-52	SAS Variable Name:  	NRECSEL
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Number of Sample Records in Stratum
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  53-61	SAS Variable Name:  	NRECSTR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Additional Weighting Information
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  62-71	SAS Variable Name:  	BPSELWT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Page 9 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Waksberg Stage 1 or Stage 2 Number
+	Section: 	Identification Information	Type: 	ID Field
+	Column:  72	SAS Variable Name:  	WAKSS1S2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Number of Adults in Household
+	Section: 	Identification Information	Type: 	ID Field
+	Columns:  73-74	SAS Variable Name:  	NUMADULT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	54401	34.00	20.02
+	02	85011	53.14	56.33
+	03	15025	9.39	15.02
+	04	4389	2.74	6.19
+	05	878	0.55	1.60
+	06-18	285	0.18	0.85
+	Page 10 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Number of Adult Males in Household
+	Section: 	Identification Information	Type: 	ID Field
+	Column:  75	SAS Variable Name:  	NUMMEN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	0	5032	4.77	4.84
+	1	86129	81.57	73.80
+	2	12071	11.43	16.34
+	3	1922	1.82	3.81
+	4	337	0.32	0.81
+	5	63	0.06	0.22
+	6	22	0.02	0.11
+	7	7	0.01	0.05
+	8	2	0.00	0.01
+	Blank	Only 1 adult in household	54401
+	Number of Adult Females in Household
+	Section: 	Identification Information	Type: 	ID Field
+	Column:  76	SAS Variable Name:  	NUMWOMEN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	0	3056	2.89	3.96
+	1	86645	82.06	75.19
+	2	13751	13.02	17.02
+	3	1799	1.70	3.05
+	4	280	0.27	0.62
+	5	39	0.04	0.09
+	6	12	0.01	0.03
+	7	3	0.00	0.02
+	8	2	0.00	0.02
+	Blank	Only 1 adult in household	54401
+	Page 11 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	General Health
+	Section: 	1.  Health Status	Type: 	Question, Fixed Core
+	Description: 	1.1.  Would you say that in general your health is:
+	Column:  77	SAS Variable Name:  	GENHLTH
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Excellent	36053	22.53	22.86
+	2	Very Good	52900	33.06	33.06
+	3	Good	45724	28.58	28.99
+	4	Fair	17954	11.22	11.00
+	5	Poor	7037	4.40	3.91
+	7	Don't know/Not sure	284	0.18	0.16
+	9	Refused	37	0.02	0.02
+	Number of Days Physical Health Not Good
+	Section: 	1.  Health Status	Type: 	Question, Fixed Core
+	Description: 	1.2.  Now thinking about your physical health, which includes physical illness and 
+	injury, for how many days during the past 30 days was your physical health not 
+	good?
+	Columns:  78-79	SAS Variable Name:  	PHYSHLTH
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-30	Number of Days	52064	32.54	32.04
+	77	Don't know/Not sure	2339	1.46	1.37
+	88	None	105470	65.92	66.51
+	99	Refused	116	0.07	0.08
+	Page 12 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Number of Days Mental Health Not Good
+	Section: 	1.  Health Status	Type: 	Question, Fixed Core
+	Description: 	1.3.  Now thinking about your mental health, which includes stress, depression, and
+	 problems with emotions, for how many days during the past 30 days was your 
+	mental health not good?
+	Columns:  80-81	SAS Variable Name:  	MENTHLTH
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-30	Number of Days	50486	31.56	31.12
+	77	Don't know/Not sure	2289	1.43	1.25
+	88	None	106973	66.86	67.48
+	99	Refused	241	0.15	0.14
+	Poor Physical Health
+	Section: 	1.  Health Status	Type: 	Question, Fixed Core
+	Description: 	1.4.  During the past 30 days, for about how many days did poor physical or mental
+	 health keep you from doing your usual activities, such as self-care, work, or 
+	recreation?
+	Columns:  82-83	SAS Variable Name:  	POORHLTH
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-30	Number of Days	30495	37.80	36.76
+	77	Don't know/Not sure	1187	1.47	1.43
+	88	None	48897	60.60	61.67
+	99	Refused	104	0.13	0.14
+	Blank	Skipped ( If PHYSHLTH=88 and 	79306
+	MENTHLTH=88)
+	Page 13 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Have Any Kind of Health Plan
+	Section: 	2.  Health Care Access	Type: 	Question, Fixed Core
+	Description: 	2.1.  Do you have any kind of health care coverage, including health insurance, 
+	prepaid plans such as HMOs, or government plans such as Medicare?
+	Column:  84	SAS Variable Name:  	HLTHPLAN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	139471	87.18	85.65
+	2	No	20142	12.59	14.04
+	7	Don't know/Not sure	261	0.16	0.23
+	9	Refused	115	0.07	0.07
+	Have Medicare
+	Section: 	2.  Health Care Access	Type: 	Question, Fixed Core
+	Description: 	2.2.  Medicare is a coverage plan for people 65 or over and for certain disabled 
+	people.  Do you have Medicare?
+	Column:  85	SAS Variable Name:  	MEDICAR2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	34341	24.62	23.04
+	2	No	104835	75.17	76.65
+	7	Do Not Know	244	0.17	0.27
+	9	Refused	51	0.04	0.04
+	Blank	Skipped/Missing  (skipped if 	20518
+	HLTHPLAN=2,7,9)
+	Page 14 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Type Coverage Paying for Most Medical Care
+	Section: 	2.  Health Care Access	Type: 	Question, Fixed Core
+	Description: 	2.3.  What type of health care coverage do you use to pay for most of your medical 
+	care?  Is it coverage through:
+	Columns:  86-87	SAS Variable Name:  	TYPCOVR1
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	Your employer	64345	61.21	61.39
+	02	Someone else's employer	21237	20.20	21.61
+	03	A plan that you or someone else buys on your 	9130	8.68	7.54
+	own
+	04	Medicare	414	0.39	0.41
+	05	Medicaid or Medical Assistance	4608	4.38	3.89
+	06	The military, CHAMPUS, or the VA	2636	2.51	2.59
+	07	The Indian Health Service	200	0.19	0.09
+	08	Some other source	1920	1.83	1.77
+	77	Don't know/Not sure	236	0.22	0.26
+	88	None	245	0.23	0.29
+	99	Refused	159	0.15	0.16
+	Blank	Skipped (If HLTHPLAN=2,7,9 or 	54859
+	MEDICARE=1)
+	Page 15 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Type Coverage Maybe Not Considered
+	Section: 	2.  Health Care Access	Type: 	Question, Fixed Core
+	Description: 	2.3a.  There are some types of coverage you may not have considered.  Please tell 
+	me if you have any of the following: (Only persons HLTHPLAN=2)
+	Columns:  88-89	SAS Variable Name:  	TYPCOVR2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	Your employer	1353	6.72	6.97
+	02	Someone else's employer	467	2.32	2.64
+	03	A plan that you or someone else buys on your 	282	1.40	1.46
+	own
+	04	Medicare	356	1.77	1.51
+	05	Medicaid or Medical Assistance	511	2.54	2.18
+	06	The military, CHAMPUS, or the VA	375	1.86	1.59
+	07	The Indian Health Service	200	0.99	0.29
+	08	Some other source	517	2.57	3.43
+	77	Don't know/Not sure	131	0.65	0.68
+	88	None	15892	78.90	78.82
+	99	Refused	58	0.29	0.43
+	Blank	Skipped (If HLTHPLAN=7,9 or MEDICARE=1)	139847
+	Page 16 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	No Health Care Coverage in Past 12 Months
+	Section: 	2.  Health Care Access	Type: 	Question, Fixed Core
+	Description: 	2.4.  During the past 12 months, was there any time that you did not have any health 
+	insurance or coverage?
+	Column:  90	SAS Variable Name:  	NOCOV12
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	8623	7.97	8.44
+	2	No	99386	91.87	91.39
+	7	Don't know/Not sure	139	0.13	0.14
+	9	Refused	28	0.03	0.03
+	Blank	Skipped	51813
+	Last Had Health Coverage
+	Section: 	2.  Health Care Access	Type: 	Question, Fixed Core
+	Description: 	2.5.  About how long has it been since you had health care coverage?
+	Column:  91	SAS Variable Name:  	PASTPLAN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Within past 6 months (1 to 6 months ago)	2994	18.55	18.63
+	2	Within past year (6 to 12 months ago)	2093	12.97	12.84
+	3	Within past 2 years (1 to 2 years ago)	2138	13.25	13.39
+	4	Within past 5 years (2 to 5 years ago)	2426	15.03	14.46
+	5	5 or More Years Ago	4133	25.61	22.76
+	7	Don't know/Not sure	364	2.26	2.20
+	8	Never	1960	12.15	15.55
+	9	Refused	29	0.18	0.18
+	Blank	Skipped	143852
+	Page 17 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Time When Could Not Afford to See Doctor
+	Section: 	2.  Health Care Access	Type: 	Question, Fixed Core
+	Description: 	2.6.  Was there a time during the last 12 months when you needed to see a doctor, 
+	but could not because of the cost?
+	Column:  92	SAS Variable Name:  	MEDCOST
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	16253	10.16	10.27
+	2	No	143439	89.66	89.58
+	7	Don't know/Not sure	246	0.15	0.13
+	9	Refused	51	0.03	0.03
+	How Long Since Last Routine Checkup
+	Section: 	2.  Health Care Access	Type: 	Question, Fixed Core
+	Description: 	2.7.  About how long has it been since you last visited a doctor for a routine 
+	checkup?
+	Column:  93	SAS Variable Name:  	CHECKUP
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Within past year (1 to 12 months ago)	113616	71.01	69.71
+	2	Within past 2 years (1 to 2 years ago)	19294	12.06	12.44
+	3	Within past 5 years (2 to 5 years ago)	10965	6.85	7.26
+	4	 5 or more years ago	12021	7.51	7.51
+	7	Don't know/Not sure	1949	1.22	1.20
+	8	Never	2077	1.30	1.84
+	9	Refused	67	0.04	0.05
+	Page 18 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	How Long since Blood Pressure Taken
+	Section: 	3.  Hypertension Awareness	Type: 	Question, Rotating Core I
+	Description: 	3.1.  About how long has it been since you last had your blood pressure taken by a 
+	doctor, nurse, or other health professional?
+	Column:  94	SAS Variable Name:  	BPTAKE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Within past 6 months (1 to 6 months ago)	117181	73.92	73.43
+	2	Within past year (6 to 12 months ago)	22014	13.89	13.53
+	3	Within past 2 years (1 to 2 years ago)	9389	5.92	6.17
+	4	Within past 5 years (2 to 5 years ago)	4604	2.90	3.08
+	5	5 or more years ago	3313	2.09	2.24
+	7	Don't know/Not sure	1441	0.91	0.94
+	8	Never	541	0.34	0.59
+	9	Refused	42	0.03	0.03
+	Blank	Skipped	1464
+	Ever Told Blood Pressure High
+	Section: 	3.  Hypertension Awareness	Type: 	Question, Rotating Core I
+	Description: 	3.2.  Have you ever been told by a doctor, nurse, or other health professional that 
+	you have high blood pressure?
+	Column:  95	SAS Variable Name:  	BPHIGH
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	40115	25.39	24.38
+	2	No	117534	74.40	75.40
+	7	Don't know/Not sure	278	0.18	0.19
+	9	Refused	57	0.04	0.03
+	Blank	Skipped	2005
+	Page 19 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Told More Than Once Blood Pressure High
+	Section: 	3.  Hypertension Awareness	Type: 	Question, Rotating Core I
+	Description: 	3.3.  Have you been told on more than one occasion that your blood pressure was 
+	high, or have you been told this only once?
+	Column:  96	SAS Variable Name:  	HIGHGT1
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	More than Once	31194	77.76	76.27
+	2	Only Once	8668	21.61	23.07
+	7	Don't know/Not sure	236	0.59	0.62
+	9	Refused	17	0.04	0.04
+	Blank	Skipped	119874
+	Ever Had Blood Cholesterol Checked
+	Section: 	4.  Cholesterol Awareness	Type: 	Question, Rotating Core I
+	Description: 	4.1.  Blood cholesterol is a fatty substance found in the blood. Have you ever had 
+	your blood cholesterol checked?
+	Column:  97	SAS Variable Name:  	BLOODCHO
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	117106	73.87	72.95
+	2	No	37301	23.53	24.53
+	7	Don't know/Not sure	4090	2.58	2.50
+	9	Refused	28	0.02	0.02
+	Blank	Skipped	1464
+	Page 20 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	How Long since Cholesterol Checked
+	Section: 	4.  Cholesterol Awareness	Type: 	Question, Rotating Core I
+	Description: 	4.2.  About how long has it been since you last had your blood cholesterol 
+	checked?
+	Column:  98	SAS Variable Name:  	CHOLCHK
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Within past year (1 to 12 months ago)	80483	68.73	69.94
+	2	Within past 2 years (1 to 2 years ago)	17091	14.59	14.20
+	3	Within past 5 years (2 to 5 years ago)	10963	9.36	9.12
+	4	5 or more years ago	6703	5.72	5.34
+	7	Don't know/Not sure	1847	1.58	1.40
+	9	Refused	19	0.02	0.01
+	Blank	Skipped	42883
+	Ever Told Blood Cholesterol High
+	Section: 	4.  Cholesterol Awareness	Type: 	Question, Rotating Core I
+	Description: 	4.3.  Have you ever been told by a doctor or other health professional that your 
+	blood cholesterol is high?
+	Column:  99	SAS Variable Name:  	TOLDHI
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	35240	30.09	29.85
+	2	No	81004	69.17	69.53
+	7	Don't know/Not sure	830	0.71	0.59
+	9	Refused	32	0.03	0.03
+	Blank	Skipped	42883
+	Page 21 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Ever Told by Doctor You Have Diabetes
+	Section: 	5.  Diabetes	Type: 	Question, Fixed Core
+	Description: 	5.1.  Have you ever been told by a doctor that you have diabetes?
+	Column:  100	SAS Variable Name:  	DIABETES
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	9496	5.94	5.94
+	2	Yes, female told only during pregnancy	1518	0.95	0.90
+	3	No	148813	93.01	93.07
+	7	Don't know/Not sure	125	0.08	0.06
+	9	Refused	37	0.02	0.03
+	Last Visited Dentist or Dental Clinic
+	Section: 	6.  Oral Health	Type: 	Question, Emerging Core
+	Description: 	6.1.  How long has it been since you last visited the dentist or a dental clinic for 
+	any reason?
+	Column:  101	SAS Variable Name:  	LASTDEN2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Within the past Year	105842	66.77	67.12
+	2	Within the past Two Years	18060	11.39	11.65
+	3	Within the past Five Years	12727	8.03	8.33
+	4	5 or More Years Ago	18762	11.84	10.58
+	7	Do Not Know	1372	0.87	0.76
+	8	Never	1200	0.76	1.10
+	9	Refused	562	0.35	0.46
+	Blank	Skipped	1464
+	Page 22 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Number of Permanent Teeth Removed
+	Section: 	6.  Oral Health	Type: 	Question, Emerging Core
+	Description: 	6.2.  How many of your permanent teeth have been removed because of tooth decay
+	 or gum disease?  Do not include teeth lost for other reasons, such as injury or 
+	orthodontics.
+	Column:  102	SAS Variable Name:  	RMVTEETH
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	5 or Fewer	48407	30.54	30.82
+	2	6 or More but Not All	20254	12.78	12.12
+	3	All	14440	9.11	7.44
+	7	Don't know/Not sure	2565	1.62	1.33
+	8	None	72183	45.53	47.77
+	9	Refused	676	0.43	0.53
+	Blank	Skipped	1464
+	When Teeth Last Cleaned by Dentist or Hygienist
+	Section: 	6.  Oral Health	Type: 	Question, Emerging Core
+	Description: 	6.3.  How long has it been since you had your teeth "cleaned" by a dentist or dental 
+	hygienist?
+	Column:  103	SAS Variable Name:  	DENCLEAN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Within the past year (1 to 12 months ago)	98557	68.97	68.92
+	2	Within the past 2 years (1 to 2 years ago)	16637	11.64	11.84
+	3	Within the past 5 years (2 to 5 years ago)	10851	7.59	7.86
+	4	5 or more years ago	12434	8.70	8.33
+	7	Don’t know/Not sure	1646	1.15	0.96
+	8	Never	2172	1.52	1.57
+	9	Refused	606	0.42	0.52
+	Blank	Skipped	17086
+	Page 23 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	When Last Sunburned
+	Section: 	7.  Skin Cancer	Type: 	Question, Emerging Core
+	Description: 	7.1.  The next question is about sunburns, including any time that even a small part 
+	of your skin was red for more than 12 hours. Have you had a sunburn within the 
+	past 12 months?
+	Column:  104	SAS Variable Name:  	SUNBURN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	50547	31.89	31.40
+	2	No	106621	67.26	67.81
+	7	Don’t know/Not sure	810	0.51	0.33
+	9	Refused	547	0.35	0.46
+	Blank	Skipped	1464
+	Number of Sunburns in Past Twelve Months
+	Section: 	7.  Skin Cancer	Type: 	Question, Emerging Core
+	Description: 	7.2.  Including times when even a small part of your skin was red for more than 12 
+	hours, how many sunburns have you had within the past 12 months?
+	Column:  105	SAS Variable Name:  	NUMBURN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	One	17518	34.66	33.24
+	2	Two	13582	26.87	27.46
+	3	Three	7129	14.10	14.26
+	4	Four	2864	5.67	5.86
+	5	Five	2058	4.07	4.16
+	6	Six or more	6055	11.98	12.52
+	7	Don’t know/Not sure	1317	2.61	2.47
+	9	Refused	24	0.05	0.05
+	Blank	Skipped	109442
+	Page 24 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Smoked at Least 100 Cigarettes
+	Section: 	8.  Tobacco Use	Type: 	Question, Fixed Core
+	Description: 	8.1.  Have you smoked at least 100 cigarettes in your entire life?
+	Column:  106	SAS Variable Name:  	SMOKE100
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	74461	46.54	46.23
+	2	No	85095	53.19	53.47
+	7	Don't know/Not sure	373	0.23	0.27
+	9	Refused	60	0.04	0.03
+	Frequency of Days Now Smoking
+	Section: 	8.  Tobacco Use	Type: 	Question, Fixed Core
+	Description: 	8.2.  Do you now smoke cigarettes everyday, some days, or not at all?
+	Column:  107	SAS Variable Name:  	SMOKEDAY
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Everyday	28838	38.73	37.70
+	2	Some Days	7434	9.98	10.79
+	3	Not at All	38163	51.25	51.49
+	9	Refused	26	0.03	0.03
+	Blank	Skipped	85528
+	Page 25 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Number of Cigarettes Now Smoked per Day
+	Section: 	8.  Tobacco Use	Type: 	Question, Fixed Core
+	Description: 	8.3.  On the average, about how many cigarettes a day do you now smoke?
+	Columns:  108-109	SAS Variable Name:  	SMOKENUM
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-76	Number of cigarettes	28564	99.05	99.18
+	77	Don't know/Not sure	232	0.80	0.73
+	99	Refused	42	0.15	0.09
+	Blank	Skipped	131151
+	Cigarettes Smoked When Smoked Less Than 30 Days
+	Section: 	8.  Tobacco Use	Type: 	Question, Fixed Core
+	Description: 	8.3a.  On the average, when you smoked during the past 30 days, about how many 
+	cigarettes did you smoke a day?
+	Columns:  110-111	SAS Variable Name:  	SMOKNM30
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-76	Number of cigarettes	7072	95.13	94.65
+	77	Don't know/Not sure	336	4.52	5.08
+	99	Refused	26	0.35	0.26
+	Blank	Skipped	152555
+	Page 26 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Quit Smoking a Day or Longer in Past Year
+	Section: 	8.  Tobacco Use	Type: 	Question, Fixed Core
+	Description: 	8.4.  During the past 12 months, have you quit smoking for 1 day or longer?
+	Column:  112	SAS Variable Name:  	STOPSMOK
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	14434	50.05	52.16
+	2	No	14362	49.80	47.72
+	7	Don't know/Not sure	39	0.14	0.11
+	9	Refused	3	0.01	0.01
+	Blank	Skipped	131151
+	How Long since Last Smoked Cigarettes
+	Section: 	8.  Tobacco Use	Type: 	Question, Fixed Core
+	Description: 	8.5.  About how long has it been since you last smoked cigarettes regularly, that is, 
+	daily?
+	Columns:  113-114	SAS Variable Name:  	LASTSMOK
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	Within past month (0 to 1 month ago)	703	1.84	2.01
+	02	Within past 3 months (1 to 3 months ago)	911	2.39	2.55
+	03	Within past 6 months (3 to 6 months ago)	1153	3.02	2.77
+	04	Within past year (6 to 12 months ago)	1743	4.57	4.56
+	05	Within past 5 years (1 to 5 years ago)	6693	17.55	17.34
+	06	Within past 15 years (5 to 15 years ago)	11154	29.25	33.30
+	07	15 or More Years Ago	14796	38.80	34.67
+	77	Don't know/Not sure	137	0.36	0.34
+	88	Never Smoked Regularly	835	2.19	2.44
+	99	Refused	11	0.03	0.02
+	Blank	Skipped	121853
+	Page 27 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Alcoholic Beverages in Past Month
+	Section: 	9.  Alcohol Consumption	Type: 	Question, Rotating Core I
+	Description: 	9.1.  During the past month, have you had at least one drink of any alcoholic 
+	beverage such as beer, wine, wine coolers, or liquor?
+	Column:  115	SAS Variable Name:  	DRINKANY
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	78228	49.35	51.82
+	2	No	79900	50.40	47.58
+	7	Don't know/Not sure	149	0.09	0.10
+	9	Refused	248	0.16	0.50
+	Blank	Skipped	1464
+	How Often Drink Liquor
+	Section: 	9.  Alcohol Consumption	Type: 	Question, Rotating Core I
+	Description: 	9.2.  During the past month, how many days per week or per month did you drink 
+	any alcoholic beverages, on the average?
+	Columns:  116-118	SAS Variable Name:  	ALCOHOL
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	101-107	Days per week	30015	38.37	35.63
+	201-231	Days per month	46297	59.18	62.06
+	777	Don't know/Not sure	1659	2.12	1.96
+	999	Refused	257	0.33	0.35
+	Blank	Skipped	81761
+	Page 28 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Average Number of Drinks per Occasion
+	Section: 	9.  Alcohol Consumption	Type: 	Question, Rotating Core I
+	Description: 	9.3.  A drink is 1 can or bottle of beer, 1 glass of wine, 1 can or bottle of wine 
+	cooler, 1 cocktail, or 1 shot of liquor.  On the days when you drank, about how 
+	many drinks did you drink on the average?
+	Columns:  119-120	SAS Variable Name:  	NALCOCC
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-76	Number of Drinks	75404	98.81	98.86
+	77	Don't know/Not sure	787	1.03	0.98
+	99	Refused	121	0.16	0.16
+	Blank	Skipped	83677
+	Five or More Drinks on an Occasion
+	Section: 	9.  Alcohol Consumption	Type: 	Question, Rotating Core I
+	Description: 	9.4.  Considering all types of alcoholic beverages, how many times during the past 
+	month did you have 5 or more drinks on an occasion?
+	Columns:  121-122	SAS Variable Name:  	DRINKGE5
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-76	Number of Times	20547	26.27	28.02
+	77	Don't know/Not sure	1114	1.42	1.50
+	88	None	56338	72.02	70.19
+	99	Refused	229	0.29	0.30
+	Blank	Skipped	81761
+	Page 29 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Drink and Drive
+	Section: 	9.  Alcohol Consumption	Type: 	Question, Rotating Core I
+	Description: 	9.5.  During the past month, how many times have you driven when you've had 
+	perhaps too much to drink?
+	Columns:  123-124	SAS Variable Name:  	DRINKDRI
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-76	Number of Times	3609	4.61	4.57
+	77	Don't know/Not sure	253	0.32	0.35
+	88	None	74192	94.84	94.89
+	99	Refused	174	0.22	0.19
+	Blank	Skipped	81761
+	Reported Age in Years
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	10.1.  What is your age?
+	Columns:  125-126	SAS Variable Name:  	AGE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	07	Don't know/Not sure	66	0.04	0.03
+	09	Refused	783	0.49	0.41
+	18-24	14541	9.09	12.42
+	25-34	29245	18.28	19.04
+	35-44	35551	22.22	21.26
+	45-54	29288	18.31	17.37
+	55-64	19847	12.41	11.78
+	65-99	30668	19.17	17.69
+	Page 30 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Original Reported Race
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	10.2.  What is your race?
+	Column:  127	SAS Variable Name:  	ORACE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	White	135568	84.74	81.86
+	2	Black	13703	8.56	10.61
+	3	Asian, Pacific Islander	3035	1.90	2.58
+	4	American Indian, Alaska Native	2545	1.59	1.10
+	5	Other	4090	2.56	3.14
+	7	Don't know/Not sure	311	0.19	0.17
+	9	Refused	737	0.46	0.53
+	Hispanic Origin
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	10.3.  Are you of Spanish or Hispanic origin?
+	Column:  128	SAS Variable Name:  	HISPANIC
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	13372	8.36	12.81
+	2	No	145835	91.15	86.69
+	7	Don't know/Not sure	379	0.24	0.23
+	9	Refused	403	0.25	0.27
+	Page 31 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Marital Status
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	10.4.  Are you:  Married, Divorced, Widowed, Separated, Never been married, or 
+	a member of an unmarried couple
+	Column:  129	SAS Variable Name:  	MARITAL
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Married	85912	53.70	58.34
+	2	Divorced	21751	13.60	9.94
+	3	Widowed	16974	10.61	7.38
+	4	Separated	3999	2.50	2.31
+	5	Never Been Married	27411	17.13	19.03
+	6	Member of an Unmarried Couple	3526	2.20	2.73
+	9	Refused	416	0.26	0.27
+	Number of Children < 5 Years Old
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	10.5.  How many children live in your household who are less than 5 years old?
+	Column:  130	SAS Variable Name:  	CHLD04
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1-7	Number of Children (7=7 or more)	23376	14.61	16.49
+	8	None	136352	85.23	83.32
+	9	Refused	261	0.16	0.19
+	Page 32 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Number of Children 5 to 12 Years Old
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	How many children live in your household who are 5 through 12 years old?
+	Column:  131	SAS Variable Name:  	CHLD0512
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1-7	Number of Children (7=7 or more)	34728	21.71	22.41
+	8	None	124981	78.12	77.39
+	9	Refused	280	0.18	0.20
+	Number of Children 13 to 17 Years Old
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	How many children live in your household who are 13 through 17 years old?
+	Column:  132	SAS Variable Name:  	CHLD1317
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1-7	Number of Children (7=7 or more)	25123	15.70	15.82
+	8	None	134568	84.11	83.95
+	9	Refused	298	0.19	0.22
+	Page 33 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Education Level
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	10.6.  What is the highest grade or year of school you completed?
+	Column:  133	SAS Variable Name:  	EDUCA
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Never attended school or only kindergarten	369	0.23	0.26
+	2	Grades 1 through 8 (Elementary)	7503	4.69	5.17
+	3	Grades 9 through 11 (Some high school)	12701	7.94	8.47
+	4	Grade 12 or GED (High school graduate)	52058	32.54	32.27
+	5	College 1 to 3 years (Some college or technical 	43193	27.00	26.59
+	school)
+	6	College 4 years or more (College graduate)	43710	27.32	26.86
+	9	Refused	455	0.28	0.39
+	Employment Status
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	10.7.  Are you currently: [employed for wages, self-employed, out of work, a 
+	homemaker, student, retired, unable to work]
+	Column:  134	SAS Variable Name:  	EMPLOY
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Employed for Wages	87046	54.41	55.31
+	2	Self-employed	13272	8.30	7.59
+	3	Out of work for more than 1 year	2070	1.29	1.52
+	4	Out of work for less than 1 year	3215	2.01	2.40
+	5	Homemaker	12242	7.65	7.78
+	6	Student	4736	2.96	3.83
+	7	Retired	30472	19.05	17.44
+	8	Unable to Work	6535	4.08	3.74
+	9	Refused	401	0.25	0.39
+	Page 34 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Income Level
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	10.8.  Is your annual household income from all sources: [Less than $25,000; Less 
+	than $20,000; Less than $15,000; Less than $10,000; Less than $35,000; Less than 
+	$50,000; Less than $75,000; $75,000 or more]
+	Columns:  135-136	SAS Variable Name:  	INCOME2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	Less than $10,000	9629	6.02	5.34
+	02	$10,000 to $14,999	9080	5.68	5.28
+	03	$15,000 to $19,999	12231	7.64	7.29
+	04	$20,000 to $24,999	15346	9.59	9.03
+	05	$25,000 to $34,999	23267	14.54	14.07
+	06	$35,000 to $49,999	25753	16.10	15.97
+	07	$50,000 to $74,999	21398	13.37	14.08
+	08	$75,000 or More	18176	11.36	13.24
+	77	Don't know/Not sure	10357	6.47	6.60
+	99	Refused	14752	9.22	9.11
+	Reported Weight in Pounds
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	10.9.  About how much do you weigh without shoes?
+	Columns:  137-139	SAS Variable Name:  	WEIGHT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	50-776	Weight	154621	96.64	96.81
+	777	Don't know/Not sure	2168	1.36	1.29
+	999	Refused	3200	2.00	1.90
+	Page 35 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Reporteed in Feet and Inches
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	10.10.  About how tall are you without shoes?
+	Columns:  140-142	SAS Variable Name:  	HEIGHT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	200-711	Height in feet and inches	158384	99.00	98.54
+	777	Don't know/Not sure	1029	0.64	0.89
+	999	Refused	576	0.36	0.57
+	Reported Height Feet
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	10.10.  About how tall are you without shoes?
+	Column:  140	SAS Variable Name:  	HTF
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	2-6	Number of Feet	158377	98.99	98.53
+	7	Don't know/Not sure or 7 feet	1036	0.65	0.90
+	9	Refused	576	0.36	0.57
+	Reported Height Inches
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	About how tall are you without shoes?
+	Columns:  141-142	SAS Variable Name:  	HTI
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	00-11	Number of Inches	158384	99.00	98.54
+	77	Don't know/Not sure	1029	0.64	0.89
+	99	Refused	576	0.36	0.57
+	Page 36 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	County Code
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	10.11.  What county do you live in?
+	Columns:  143-145	SAS Variable Name:  	CTYCODE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed	County Code	156265	97.67	98.38
+	777	Don't know/Not sure	875	0.55	0.70
+	999	Refused	2849	1.78	0.91
+	More than One Telephone Number in Household
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	10.12.  Do you have more than one telephone number in your household?
+	Column:  146	SAS Variable Name:  	NUMHHOLD
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	24326	15.20	13.40
+	2	No	135105	84.45	86.04
+	9	Refused	558	0.35	0.57
+	Page 37 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Number of Unique Phone Numbers in Household
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	10.13.  How many residential telephone numbers do you have?
+	Column:  147	SAS Variable Name:  	NUMPHONS
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	6353	26.12	38.05
+	2	15890	65.32	55.91
+	3	1655	6.80	4.67
+	4	261	1.07	0.69
+	5	56	0.23	0.13
+	6	10	0.04	0.02
+	7	3	0.01	0.01
+	8	8 or More	7	0.03	0.01
+	9	Refused	91	0.37	0.51
+	Blank	Skipped	135663
+	Sex
+	Section: 	10.  Demographics	Type: 	Question, Fixed Core
+	Description: 	10.14.  Indicate sex of respondent.
+	Column:  148	SAS Variable Name:  	SEX
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Male	65310	40.82	48.02
+	2	Female	94679	59.18	51.98
+	Page 38 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Have You Ever Had a Mammogram
+	Section: 	11.  Women's Health	Type: 	Question, Fixed Core
+	Description: 	11.1.  A mammogram is an x-ray of each breast to look for breast cancer.  Have 
+	you ever had a mammogram?
+	Column:  149	SAS Variable Name:  	HADMAM
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	59169	62.49	60.84
+	2	No	34860	36.82	38.29
+	7	Don't know/Not sure	104	0.11	0.08
+	9	Refused	546	0.58	0.78
+	Blank	Skipped	65310
+	How Long since Last Mammogram
+	Section: 	11.  Women's Health	Type: 	Question, Fixed Core
+	Description: 	11.2.  How long has it been since you had your last mammogram?
+	Column:  150	SAS Variable Name:  	HOWLONG
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Within past year (1 to 12 months ago)	38567	65.18	66.29
+	2	Within past 2 years (1 to 2 years ago)	9737	16.46	16.63
+	3	Within past 3 years (2 to 3 years ago)	3476	5.87	5.44
+	4	Within past 5 years (3 to 5 years ago)	2830	4.78	4.61
+	5	5 or More Years Ago	4082	6.90	6.31
+	7	Don't know/Not sure	444	0.75	0.67
+	9	Refused	33	0.06	0.05
+	Blank	Skipped	100820
+	Page 39 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Reason You Had Mammogram
+	Section: 	11.  Women's Health	Type: 	Question, Fixed Core
+	Description: 	11.3.  Was your last mammogram done as part of a routine checkup, because of a 
+	breast problem other than cancer, or because you've already had breast cancer?
+	Column:  151	SAS Variable Name:  	WHYDONE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Routine Checkup	52236	88.28	89.07
+	2	Breast Problem Other than Cancer	5322	8.99	8.36
+	3	Had Breast Cancer	1368	2.31	2.15
+	7	Don't know/Not sure	192	0.32	0.36
+	9	Refused	51	0.09	0.06
+	Blank	Skipped	100820
+	Ever Had Breast Physical Exam by Doctor
+	Section: 	11.  Women's Health	Type: 	Question, Fixed Core
+	Description: 	11.4.  A clinical breast exam is when a doctor, nurse, or other health professional 
+	feels the breast for lumps.  Have you ever had a clinical breast exam?
+	Column:  152	SAS Variable Name:  	PROFEXAM
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	83519	88.21	86.45
+	2	No	10253	10.83	12.43
+	7	Don't know/Not sure	287	0.30	0.28
+	9	Refused	620	0.65	0.84
+	Blank	Skipped	65310
+	Page 40 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	How Long since Last Breast Physical Exam
+	Section: 	11.  Women's Health	Type: 	Question, Fixed Core
+	Description: 	11.5.  How long has it been since your last breast exam?
+	Column:  153	SAS Variable Name:  	LENGEXAM
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Within past year (1 to 12 months ago)	62469	74.80	75.73
+	2	Within past 2 years (1 to 2 years ago)	10451	12.51	12.49
+	3	Within past 3 years (2 to 3 years ago)	3281	3.93	3.67
+	4	Within past 5 years (3 to 5 years ago)	2393	2.87	2.72
+	5	5 or More Years Ago	4162	4.98	4.59
+	7	Don't know/Not sure	737	0.88	0.77
+	9	Refused	26	0.03	0.03
+	Blank	Skipped	76470
+	Reason You Had Breast Physical Exam
+	Section: 	11.  Women's Health	Type: 	Question, Fixed Core
+	Description: 	11.6.  Was your last breast exam done as part of a routine checkup, because of a 
+	breast problem other than cancer, or because you've already had breast cancer?
+	Column:  154	SAS Variable Name:  	REASEXAM
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Routine Checkup	78661	94.18	94.50
+	2	Breast Problem Other than Cancer	3501	4.19	4.04
+	3	Had Breast Cancer	1118	1.34	1.15
+	7	Don't know/Not sure	188	0.23	0.21
+	9	Refused	51	0.06	0.09
+	Blank	Skipped	76470
+	Page 41 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Ever Had a Pap Smear Test
+	Section: 	11.  Women's Health	Type: 	Question, Fixed Core
+	Description: 	11.7.  A Pap smear is a test for cancer of the cervix.  Have you ever had a Pap 
+	smear?
+	Column:  155	SAS Variable Name:  	HADPAP
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	89118	94.13	93.10
+	2	No	4654	4.92	5.77
+	7	Don't know/Not sure	215	0.23	0.19
+	9	Refused	692	0.73	0.93
+	Blank	Skipped	65310
+	When Was Last Pap Smear
+	Section: 	11.  Women's Health	Type: 	Question, Fixed Core
+	Description: 	11.8.  How long has it been since you had your last Pap smear?
+	Column:  156	SAS Variable Name:  	LASTPAP
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Within past year (1 to 12 months ago)	60437	67.82	69.04
+	2	Within past 2 years (1 to 2 years ago)	11718	13.15	13.27
+	3	Within past 3 years (2 to 3 years ago)	4097	4.60	4.38
+	4	Within past 5 years (3 to 5 years ago)	3263	3.66	3.47
+	5	5 or More Years Ago	8627	9.68	8.82
+	7	Don't know/Not sure	928	1.04	0.98
+	9	Refused	48	0.05	0.05
+	Blank	Skipped	70871
+	Page 42 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Reason You Had Pap Smear
+	Section: 	11.  Women's Health	Type: 	Question, Fixed Core
+	Description: 	11.9.  Was your last Pap smear done as part of a routine exam, or to check a current
+	 or previous problem?
+	Column:  157	SAS Variable Name:  	WHYPAP
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Routine Exam	83951	94.20	94.03
+	2	Check Current or Previous Problem	4376	4.91	4.80
+	3	Other	492	0.55	0.85
+	7	Don't know/Not sure	245	0.27	0.27
+	9	Refused	54	0.06	0.05
+	Blank	Skipped	70871
+	Ever Had a Hysterectomy
+	Section: 	11.  Women's Health	Type: 	Question, Fixed Core
+	Description: 	11.10.  Have you had a hysterectomy?
+	Column:  158	SAS Variable Name:  	HADHYST
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	22171	23.42	21.98
+	2	No	71651	75.68	76.93
+	7	Don't know/Not sure	81	0.09	0.07
+	9	Refused	776	0.82	1.02
+	Blank	Skipped	65310
+	Page 43 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Now Pregnant
+	Section: 	11.  Women's Health	Type: 	Question, Fixed Core
+	Description: 	11.11.  To your knowledge, are you now pregnant?
+	Column:  159	SAS Variable Name:  	PREGNANT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	1915	4.45	4.94
+	2	No	40581	94.35	93.47
+	7	Don't know/Not sure	166	0.39	0.46
+	9	Refused	350	0.81	1.13
+	Blank	Skipped	116977
+	Had Flu Shot in Past 12 Months
+	Section: 	12.  Immunization	Type: 	Question, Rotating Core I
+	Description: 	12.1.  During the past 12 months, have you had a flu shot?
+	Column:  160	SAS Variable Name:  	FLUSHOT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	51171	32.28	30.28
+	2	No	105910	66.81	68.51
+	7	Don't know/Not sure	443	0.28	0.31
+	9	Refused	1001	0.63	0.90
+	Blank	Skipped	1464
+	Page 44 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Where Last Flu Shot
+	Section: 	12.  Immunization	Type: 	Question, Emerging Core
+	Description: 	12.2  At what kind of place did you get your last flu shot?
+	Columns:  161-162	SAS Variable Name:  	FLUPROV
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	A doctor’s office or health maintenance 	22396	43.77	46.91
+	organization
+	02	A health department	3599	7.03	6.55
+	03	Another type of clinic or health center [Example:	5347	10.45	9.05
+	 a community health center]
+	04	A senior, recreation, or community center	2166	4.23	3.76
+	05	A store [Examples: supermarket, drug store]	2479	4.84	5.08
+	06	A hospital or emergency room	3345	6.54	7.01
+	07	Workplace	9649	18.86	17.79
+	08	Other [specify]	1999	3.91	3.52
+	77	Don’t know/Not sure	165	0.32	0.29
+	99	Refused	26	0.05	0.04
+	Blank	Skipped	108818
+	Ever Had Pneumonia Vaccination
+	Section: 	12.  Immunization	Type: 	Question, Rotating Core I
+	Description: 	12.3.  Have you ever had a pneumonia vaccination?
+	Column:  163	SAS Variable Name:  	PNEUMVAC
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	28263	17.83	17.22
+	2	No	123191	77.71	77.58
+	7	Don't know/Not sure	6029	3.80	4.27
+	9	Refused	1042	0.66	0.94
+	Blank	Skipped	1464
+	Page 45 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Ever Had Blood Stool Test Using Home Kit
+	Section: 	13.  Colorectal Cancer Screening	Type: 	Question, Rotating Core I
+	Description: 	13.1.  A blood stool test is a test that may use a special kit at home to determine 
+	whether the stool contains blood.  Have you ever had this test using a home kit?
+	Column:  164	SAS Variable Name:  	BLDSTOOL
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	30444	31.25	30.94
+	2	No	65524	67.25	67.31
+	7	Don't know/Not sure	613	0.63	0.58
+	9	Refused	854	0.88	1.18
+	Blank	Skipped	62554
+	How Long Since Last Home Blood Stool Test
+	Section: 	13.  Colorectal Cancer Screening	Type: 	Question, Rotating Core I
+	Description: 	13.2.  When did you have your last blood stool test using a home kit?
+	Column:  165	SAS Variable Name:  	LSTBLDST
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Within past year (1 to 12 months ago)	14557	47.82	49.26
+	2	Within past 2 years (1 to 2 years ago)	5349	17.57	17.76
+	3	Within past 5 years	4881	16.03	15.94
+	4	5 or more years ago	4986	16.38	15.15
+	7	Don't know/Not sure	654	2.15	1.82
+	9	Refused	17	0.06	0.08
+	Blank	Skipped	129545
+	Page 46 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Ever Had a Sigmoidoscopy/Colonoscopy
+	Section: 	13.  Colorectal Cancer Screening	Type: 	Question, Rotating Core I
+	Description: 	13.3.  A sigmoidoscopy or colonoscopy is when a tube is inserted in the rectum to 
+	view the bowel for signs of cancer and other health problems.  Have you ever had 
+	this exam?
+	Column:  166	SAS Variable Name:  	HADSIGM
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	31950	32.79	33.46
+	2	No	63746	65.42	64.54
+	7	Don't know/Not sure	817	0.84	0.75
+	9	Refused	922	0.95	1.25
+	Blank	Skipped	62554
+	How Long Since Sigmoidoscopy/Colonoscopy
+	Section: 	13.  Colorectal Cancer Screening	Type: 	Question, Rotating Core I
+	Description: 	13.4.  When did you have your last sigmoidoscopy or colonoscopy?
+	Column:  167	SAS Variable Name:  	LASTSIGM
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Within past year (1 to 12 months ago)	10349	32.39	33.34
+	2	Within past 2 years (1 to 2 years ago)	5781	18.09	18.33
+	3	Within past 5 years (2 to 5 years ago)	7029	22.00	23.15
+	4	5 or more years ago	8368	26.19	23.97
+	7	Don't know/Not sure	414	1.30	1.17
+	9	Refused	9	0.03	0.03
+	Blank	Skipped	128039
+	Page 47 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Age of Oldest Child Under Age 16
+	Section: 	14.  Injury Control	Type: 	Question, Rotating Core I
+	Description: 	14.1.  What is the age of the oldest child in your household under the age of 16?
+	Columns:  168-169	SAS Variable Name:  	CHLDLT16
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-15	Age in years (Less than 1 year coded as 01)	53600	89.85	90.01
+	77	Don't know/Not sure	263	0.44	0.45
+	88	No Children under Age 16	4897	8.21	7.83
+	99	Refused	897	1.50	1.71
+	Blank	Skipped	100332
+	Bicycle Helmet Worn When Riding
+	Section: 	14.  Injury Control	Type: 	Question, Rotating Core I
+	Description: 	14.2.  During the past year, how often has the [fill in age from 
+	CHLDLT16]-year-old child worn a bicycle helmet when riding a bicycle?
+	Column:  170	SAS Variable Name:  	BIKEHLMT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Always	13262	31.29	34.05
+	2	Nearly Always	4534	10.70	10.47
+	3	Sometimes	4564	10.77	10.16
+	4	Seldom	2589	6.11	5.46
+	5	Never	11026	26.02	23.62
+	7	Don't know/Not sure	287	0.68	0.70
+	8	Never rides a bike	6007	14.17	15.30
+	9	Refused	109	0.26	0.25
+	Blank	Skipped	117611
+	Page 48 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Last Time Tested Smoke Detectors
+	Section: 	14.  Injury Control	Type: 	Question, Rotating Core I
+	Description: 	14.3.  When was the last time you or someone else deliberately tested all of the 
+	smoke detectors in your home, either by pressing the test buttons or holding a 
+	source of smoke near them?
+	Column:  171	SAS Variable Name:  	SMKDETE2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Within past Month	43898	27.69	29.11
+	2	Within past 6 Months	48423	30.55	30.35
+	3	Within past Year	18994	11.98	11.02
+	4	One or More Years Ago	11754	7.41	6.98
+	5	Never	13563	8.56	9.28
+	6	No Smoke Detectors in Home	9218	5.81	5.17
+	7	Do Not Know	11434	7.21	7.23
+	9	Refused	1241	0.78	0.86
+	Blank	Skipped	1464
+	Grade to Begin HIV Infection and AIDS Education
+	Section: 	15.  HIV/AIDS	Type: 	Question, Fixed Core
+	Description: 	15.1.  If you had a child in school, at what grade do you think he or she should 
+	begin receiving education in school about HIV infection and AIDS?
+	Columns:  172-173	SAS Variable Name:  	GRADE2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-12	Grade	106173	82.10	80.30
+	55	Kindergarten	8555	6.62	5.63
+	77	Don't know/Not sure	9258	7.16	6.63
+	88	Never	2164	1.67	1.73
+	99	Refused	3171	2.45	5.72
+	Blank	Skipped	30668
+	Page 49 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Encourage Sex Active Teen to Use Condom
+	Section: 	15.  HIV/AIDS	Type: 	Question, Fixed Core
+	Description: 	15.2.  If you had a teenager who was sexually active, would you encourage him or 
+	her to use a condom?
+	Column:  174	SAS Variable Name:  	CONDUSE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	110301	85.29	82.82
+	2	No	3236	2.50	2.24
+	3	Would Give Other Advice	10412	8.05	7.56
+	7	Don't know/Not sure	1990	1.54	1.46
+	9	Refused	3382	2.62	5.92
+	Blank	Skipped	30668
+	Chances of Getting Infected with HIV
+	Section: 	15.  HIV/AIDS	Type: 	Question, Fixed Core
+	Description: 	15.3.  What are your chances of getting infected with HIV, the virus that causes 
+	AIDS?
+	Column:  175	SAS Variable Name:  	GETHIV
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	High	2805	2.17	2.66
+	2	Medium	5281	4.08	4.22
+	3	Low	32116	24.83	23.69
+	4	None	84629	65.44	62.61
+	5	Not Applicable	1375	1.06	4.16
+	7	Don't know/Not sure	1447	1.12	1.15
+	9	Refused	1668	1.29	1.50
+	Blank	Skipped	30668
+	Page 50 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Donated Blood since March 1985
+	Section: 	15.  HIV/AIDS	Type: 	Question, Fixed Core
+	Description: 	15.4.  Have you donated blood since March 1985?
+	Column:  176	SAS Variable Name:  	DONBLD85
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	35625	27.84	28.61
+	2	No	90012	70.35	69.42
+	7	Don't know/Not sure	948	0.74	0.66
+	9	Refused	1361	1.06	1.31
+	Blank	Skipped	32043
+	Had Blood Donation in past 12 months
+	Section: 	15.  HIV/AIDS	Type: 	Question, Fixed Core
+	Description: 	15.5.  Have you donated blood in the past 12 months?
+	Column:  177	SAS Variable Name:  	DON12MO
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	10658	29.92	28.91
+	2	No	24769	69.53	70.35
+	7	Don't know/Not sure	196	0.55	0.72
+	9	Refused	2	0.01	0.01
+	Blank	Skipped	124364
+	Page 51 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Ever Tested for HIV (Excluding Blood Donations)
+	Section: 	15.  HIV/AIDS	Type: 	Question, Fixed Core
+	Description: 	15.6.  Except for tests you may have had a part of blood donations, have you ever 
+	been tested for HIV?
+	Column:  178	SAS Variable Name:  	HIVTST2A
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	16169	45.39	46.06
+	2	No	18576	52.14	51.48
+	7	Do Not Know	856	2.40	2.41
+	9	Refused	24	0.07	0.05
+	Blank	Skipped	124364
+	Ever Tested for HIV
+	Section: 	15.  HIV/AIDS	Type: 	Question, Fixed Core
+	Description: 	15.6a.  Have you ever been tested for HIV?
+	Column:  179	SAS Variable Name:  	HIVTST2B
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	38463	41.66	42.94
+	2	No	49590	53.71	52.29
+	7	Do Not Know	2815	3.05	2.84
+	9	Refused	1453	1.57	1.93
+	Blank	Skipped	67668
+	Page 52 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Tested for HIV Past 12 Months (Not Including Blood Donation)
+	Section: 	15.  HIV/AIDS	Type: 	Question, Fixed Core
+	Description: 	15.7.  Not including your blood donations, have you been tested for HIV in the past 
+	12 months?
+	Column:  180	SAS Variable Name:  	HIV12MO
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	5792	35.82	36.90
+	2	No	10226	63.24	62.03
+	7	Don't know/Not sure	149	0.92	1.04
+	9	Refused	2	0.01	0.03
+	Blank	Skipped	143820
+	Tested for HIV in Past Twelve Months
+	Section: 	15.  HIV/AIDS	Type: 	Question, Fixed Core
+	Description: 	15.7a.  Have you been tested for HIV in the past 12 months?
+	Column:  181	SAS Variable Name:  	TEST12MO
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	12582	31.58	29.61
+	2	No	25490	63.98	57.12
+	7	Don't know/Not sure	483	1.21	1.11
+	9	Refused	1283	3.22	12.16
+	Blank	Skipped	120151
+	Page 53 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Main Reason Blood Tested for HIV
+	Section: 	15.  HIV/AIDS	Type: 	Question, Fixed Core
+	Description: 	15.8.  What was the main reason you had your last blood test for HIV?
+	Columns:  182-183	SAS Variable Name:  	RSNTST2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	For Hospitalization or Surgical Procedure	1206	6.56	5.77
+	02	To Apply for Health Insurance	417	2.27	2.20
+	03	To Apply for Life Insurance	1232	6.71	6.45
+	04	For Employment	824	4.48	4.71
+	05	To Apply for a Marriage License	158	0.86	0.90
+	06	For Military Induction or Military Service	1024	5.57	5.53
+	07	For Immigration	102	0.56	0.72
+	08	Just to Find out If You Were Infected	3160	17.20	18.33
+	09	Because of Referral by a Doctor	198	1.08	1.15
+	10	Because of Pregnancy	2863	15.58	15.33
+	11	Referred by Your Sex Partner	161	0.88	0.76
+	12	Because it Was Part of a Blood Donation 	211	1.15	1.02
+	Process
+	13	For Routine Checkup	4164	22.66	23.82
+	14	Because of Occupational Exposure	641	3.49	2.67
+	15	Because of Illness	418	2.27	2.01
+	16	Because I Am at Risk for HIV	209	1.14	1.00
+	77	Don't know/Not sure	92	0.50	0.43
+	87	Other	1168	6.36	6.57
+	99	Refused	126	0.69	0.60
+	Blank	Skipped	141615
+	Page 54 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Where Last Tested for HIV
+	Section: 	15.  HIV/AIDS	Type: 	Question, Fixed Core
+	Description: 	15.9.  Where did you have your last test for HIV?
+	Columns:  184-185	SAS Variable Name:  	WHRTST3
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	Private Doctor, HMO	7098	39.08	38.11
+	02	Blood Bank, Plasma Center, Red Cross	163	0.90	0.91
+	03	Health Department	1441	7.93	7.92
+	04	Aids Clinic, Counseling, Testing Site	392	2.16	2.77
+	05	Hospital, Emergency Room, Outpatient Clinic	3603	19.84	19.63
+	06	Family Planning Clinic	400	2.20	2.60
+	07	Prenatal Clinic	313	1.72	1.92
+	08	Tuberculosis Clinic	8	0.04	0.04
+	09	STD Clinic	82	0.45	0.58
+	10	Community Health Clinic	691	3.80	3.54
+	11	Clinic Run by Employer	318	1.75	1.76
+	12	Insurance Company Clinic	386	2.13	2.05
+	13	Other Public Clinic	305	1.68	1.75
+	14	Drug Treatment Facility	31	0.17	0.14
+	15	Military Induction or Military Service Site	1217	6.70	6.33
+	16	Immigration Site	28	0.15	0.24
+	17	At Home, Home Visit by Nurse or Health 	742	4.09	4.00
+	Worker
+	18	At Home, Using Self-testing Kit	95	0.52	0.61
+	19	In Jail or Prison	57	0.31	0.41
+	77	Do Not Know	91	0.50	0.52
+	87	Other	623	3.43	3.70
+	99	Refused	79	0.43	0.44
+	Blank	Skipped	141826
+	Page 55 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Received Results of Last Test
+	Section: 	15.  HIV/AIDS	Type: 	Question, Fixed Core
+	Description: 	15.10.  Did you receive the results of your last test?
+	Column:  186	SAS Variable Name:  	RESULTS
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	15575	85.75	86.44
+	2	No	2465	13.57	12.83
+	7	Don't know/Not sure	95	0.52	0.61
+	9	Refused	28	0.15	0.12
+	Blank	Skipped	141826
+	Received Counseling About Test Results
+	Section: 	15.  HIV/AIDS	Type: 	Question, Fixed Core
+	Description: 	15.11.  Did you receive counseling or talk with a health care professional about the
+	 results of your test?
+	Column:  187	SAS Variable Name:  	COUNSEL
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	5443	34.95	35.15
+	2	No	10087	64.76	64.60
+	7	Don't know/Not sure	33	0.21	0.19
+	9	Refused	12	0.08	0.06
+	Blank	Skipped	144414
+	Page 56 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Age When Told Diabetic
+	Section: 	Module 1.  Diabetes	Type: 	Question, Module
+	Description: 	1.  How old were you when you were told you have diabetes?
+	Columns:  188-189	SAS Variable Name:  	DIABAGE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-76	Age in Years	6668	95.72	96.52
+	77	Don't know/Not sure	273	3.92	3.21
+	99	Refused	25	0.36	0.27
+	Blank	Skipped	153023
+	Now Taking Insulin
+	Section: 	Module 1.  Diabetes	Type: 	Question, Module
+	Description: 	2.  Are you now taking insulin?
+	Column:  190	SAS Variable Name:  	INSULIN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	2203	31.63	30.93
+	2	No	4750	68.19	68.70
+	9	Refused	13	0.19	0.37
+	Blank	Skipped	153023
+	Page 57 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	How Often Do You Use Insulin
+	Section: 	Module 1.  Diabetes	Type: 	Question, Module
+	Description: 	3.  Currently, about how often do you use insulin
+	Columns:  191-193	SAS Variable Name:  	INSLNFRQ
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	101-106	Times per day	2089	94.83	95.16
+	201-242	Times per week	67	3.04	3.10
+	333	Use Insulin Pump	35	1.59	1.16
+	777	Don't know/Not sure	9	0.41	0.37
+	999	Refused	3	0.14	0.21
+	Blank	Skipped	157786
+	How Often Check Blood for Glucose
+	Section: 	Module 1.  Diabetes	Type: 	Question, Module
+	Description: 	4.  About how often do you check your blood for glucose or sugar?  Include times 
+	when checked by a family member or friend, but do not include times when 
+	checked by a health professional.
+	Columns:  194-196	SAS Variable Name:  	BLDSUGAR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	101-109	Times per day	3174	45.56	45.91
+	201-263	Times per week	1587	22.78	22.58
+	301-399	Times per month	656	9.42	9.38
+	401-499	Times per year	385	5.53	4.56
+	777	Don't know/Not sure	171	2.45	2.40
+	888	Never	977	14.03	14.99
+	999	Refused	16	0.23	0.19
+	Blank	Skipped	153023
+	Page 58 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Heard of Glycosylated Hemoglobin
+	Section: 	Module 1.  Diabetes	Type: 	Question, Module
+	Description: 	5.  Have you ever heard of glycosylated hemoglobin [gli-KOS-ilated 
+	HE-mo-glo-bin] or hemoglobin "A one C"?
+	Column:  197	SAS Variable Name:  	HEMOGLBN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	2049	29.41	29.73
+	2	No	4648	66.72	66.69
+	7	Don't know/Not sure	259	3.72	3.49
+	9	Refused	10	0.14	0.10
+	Blank	Skipped	153023
+	Times Seen Health Professional for Diabetes
+	Section: 	Module 1.  Diabetes	Type: 	Question, Module
+	Description: 	6.  About how many times in the last year have you seen a doctor, nurse, or other 
+	health professional for your diabetes?
+	Columns:  198-199	SAS Variable Name:  	DOCTDIAB
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-52	Number of times	5928	85.10	84.88
+	77	Don't know/Not sure	300	4.31	4.15
+	88	None	723	10.38	10.80
+	99	Refused	15	0.22	0.18
+	Blank	Skipped	153023
+	Page 59 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Times Check for Glycosylated Hemoglobin
+	Section: 	Module 1.  Diabetes	Type: 	Question, Module
+	Description: 	7.  About how many times in the last year has a doctor, nurse, or other health 
+	professional checked you for glycosylated hemoglobin or hemoglobin "A one C"?
+	Columns:  200-201	SAS Variable Name:  	CHKHEMO
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-76	Number of times	1425	77.40	80.36
+	77	Don't know/Not sure	280	15.21	13.79
+	88	None	135	7.33	5.72
+	99	Refused	1	0.05	0.13
+	Blank	Skipped	158148
+	Times Feet Check for Sores/irritations
+	Section: 	Module 1.  Diabetes	Type: 	Question, Module
+	Description: 	8.  About how many times in the last year has a health professional checked your 
+	feet for any sores or irritations?
+	Columns:  202-203	SAS Variable Name:  	FEETCHK
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-76	Number of times	3962	66.84	67.15
+	77	Don't know/Not sure	173	2.92	2.37
+	88	None	1783	30.08	30.30
+	99	Refused	10	0.17	0.18
+	Blank	Skipped	154061
+	Page 60 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Last Eye Exam Where Pupils Were Dilated
+	Section: 	Module 1.  Diabetes	Type: 	Question, Module
+	Description: 	9.  When was the last time you had an eye exam in which the pupils were dilated?  
+	This would have made you temporarily sensitive to bright light.
+	Column:  204	SAS Variable Name:  	EYEEXAM
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Within past month (0 to 1 month ago)	1199	17.21	17.85
+	2	Within past year (1 to12 months ago)	3496	50.19	49.54
+	3	Within past 2 years (1 to 2 years ago)	838	12.03	12.51
+	4	2 or More Years Ago	839	12.04	11.95
+	7	Don't know/Not sure	188	2.70	2.31
+	8	Never	383	5.50	5.62
+	9	Refused	23	0.33	0.22
+	Blank	Skipped	153023
+	Limited Vision Seeing Across Street
+	Section: 	Module 1.  Diabetes	Type: 	Question, Module
+	Description: 	10.  How much of the time does your vision limit you in recognizing people or 
+	objects across the street?
+	Column:  205	SAS Variable Name:  	VISNDIST
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	All of the Time	627	9.00	9.89
+	2	Most of the Time	445	6.39	6.64
+	3	Some of the Time	782	11.23	11.65
+	4	A Little Bit of the Time	630	9.04	9.62
+	5	None of the Time	4343	62.35	60.65
+	7	Don't know/Not sure	95	1.36	1.15
+	9	Refused	44	0.63	0.40
+	Blank	Skipped	153023
+	Page 61 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Limited Vision in Reading Print
+	Section: 	Module 1.  Diabetes	Type: 	Question, Module
+	Description: 	11.  How much of the time does your vision limit you in reading print  in a 
+	newspaper, magazine, recipe, menu, or numbers on the telephone?
+	Column:  206	SAS Variable Name:  	VISNREAD
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	All of the Time	899	12.91	13.43
+	2	Most of the Time	489	7.02	7.01
+	3	Some of the Time	907	13.02	13.22
+	4	A Little Bit of the Time	725	10.41	11.51
+	5	None of the Time	3827	54.94	53.34
+	7	Don't know/Not sure	76	1.09	1.08
+	9	Refused	43	0.62	0.42
+	Blank	Skipped	153023
+	Limited Vision in Watching Television
+	Section: 	Module 1.  Diabetes	Type: 	Question, Module
+	Description: 	12.  How much of the time does your vision limit you in watching television?
+	Column:  207	SAS Variable Name:  	VISIONTV
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	All of the Time	343	4.92	5.53
+	2	Most of the Time	258	3.70	4.25
+	3	Some of the Time	564	8.10	7.87
+	4	A Little Bit of the Time	470	6.75	6.77
+	5	None of the Time	5201	74.66	74.11
+	7	Don't know/Not sure	86	1.23	1.07
+	9	Refused	44	0.63	0.41
+	Blank	Skipped	153023
+	Page 62 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	How Many Partners in Past 12 Months
+	Section: 	Module 2.  Sexual Behavior	Type: 	Question, Module
+	Description: 	1.  During the past 12 months, with how many people have you had sexual 
+	intercourse?
+	Columns:  208-209	SAS Variable Name:  	SEXINTMN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-76	Number	15509	80.05	79.31
+	77	Don't know/Not sure	67	0.35	0.50
+	88	None	2676	13.81	13.25
+	99	Refused	1123	5.80	6.95
+	Blank	Skipped	140614
+	Condom Used Last Intercourse
+	Section: 	Module 2.  Sexual Behavior	Type: 	Question, Module
+	Description: 	2.   Was a condom used the last time you had sexual intercourse?
+	Column:  210	SAS Variable Name:  	SEXCONDM
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	3578	21.43	23.87
+	2	No	12067	72.26	68.73
+	7	Don't know/Not sure	38	0.23	0.24
+	9	Refused	1016	6.08	7.17
+	Blank	Skipped	143290
+	Page 63 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Why Was Condom Used
+	Section: 	Module 2.  Sexual Behavior	Type: 	Question, Module
+	Description: 	3.  The last time you had sexual intercourse, was the condom used …
+	Column:  211	SAS Variable Name:  	CONDLAST
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	To Prevent Pregnancy	1304	36.44	33.76
+	2	To prevent diseases (like syphilis, gonorrhea 	354	9.89	8.30
+	and AIDS)
+	3	For Both of These Reasons	1817	50.78	55.76
+	4	For Some Other Reason	85	2.38	1.74
+	7	Don't know/Not sure	9	0.25	0.33
+	9	Refused	9	0.25	0.11
+	Blank	Skipped	156411
+	Condom Effectiveness Against HIV
+	Section: 	Module 2.  Sexual Behavior	Type: 	Question, Module
+	Description: 	4.  Some people use condoms to keep from getting infected with HIV through 
+	sexual activity.  How effective do you think a properly used condom is for this 
+	purpose?
+	Column:  212	SAS Variable Name:  	CONEFF2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Very Effective	7393	44.27	43.20
+	2	Somewhat Effective	6516	39.02	38.00
+	3	Not at All Effective	631	3.78	3.72
+	4	Don't Know How Effective	1243	7.44	8.79
+	5	Don't Know Method	134	0.80	0.91
+	9	Refused	782	4.68	5.37
+	Blank	Skipped	143290
+	Page 64 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Number New Partners Past year
+	Section: 	Module 2.  Sexual Behavior	Type: 	Question, Module
+	Description: 	5.  How many new sex partners did you have during the past twelve months?
+	Columns:  213-214	SAS Variable Name:  	NEWPARTN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-76	Number of New Sex Partners	2908	17.41	18.92
+	77	Don't know/Not sure	52	0.31	0.56
+	88	None	12680	75.93	73.23
+	99	Refused	1059	6.34	7.29
+	Blank	Skipped	143290
+	Do Any High Risk Situations Apply
+	Section: 	Module 2.  Sexual Behavior	Type: 	Question, Module
+	Description: 	6.   You have used intravenous drugs in the past year, have been treated for a 
+	sexually transmitted or venereal disease in the past year, tested positive for having 
+	HIV, the virus that causes AIDS or had anal sex without a condom in the past year.
+	Column:  215	SAS Variable Name:  	HIVRISK
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	721	4.32	4.62
+	2	No	15060	90.19	89.30
+	7	Don't know/Not sure	30	0.18	0.22
+	9	Refused	888	5.32	5.87
+	Blank	Skipped	143290
+	Page 65 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Treated for STD or VD in Past Five Years
+	Section: 	Module 2.  Sexual Behavior	Type: 	Question, Module
+	Description: 	7.  In the past five years, have you been treated for a sexually transmitted or 
+	venereal disease?
+	Column:  216	SAS Variable Name:  	STDTREAT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	505	3.02	2.84
+	2	No	15402	92.23	92.41
+	7	Don't know/Not sure	14	0.08	0.06
+	9	Refused	778	4.66	4.69
+	Blank	Skipped	143290
+	Treated at Health Dept STD Clinic?
+	Section: 	Module 2.  Sexual Behavior	Type: 	Question, Module
+	Description: 	8.  Were you treated at a health department STD clinic?
+	Column:  217	SAS Variable Name:  	STDCLIN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	182	36.04	47.80
+	2	No	320	63.37	51.78
+	7	Don't know/Not sure	3	0.59	0.42
+	Blank	Skipped	159484
+	Page 66 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Changed Sexual Behavior Last 12 Mos.
+	Section: 	Module 2.  Sexual Behavior	Type: 	Question, Module
+	Description: 	9.  Due to what you know about HIV, have you changed your sexual behavior in the
+	 last 12 months?
+	Column:  218	SAS Variable Name:  	SEXBEHA2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	1553	9.30	10.61
+	2	No	14300	85.63	84.11
+	7	Do Not Know	47	0.28	0.22
+	9	Refused	799	4.78	5.06
+	Blank	Skipped	143290
+	Decrease Number of Partners
+	Section: 	Module 2.  Sexual Behavior	Type: 	Question, Module
+	Description: 	10a.  Did you decrease the number of your sexual partners or become abstinent?
+	Column:  219	SAS Variable Name:  	SELCPTN3
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	1020	65.68	60.99
+	2	No	494	31.81	35.60
+	7	Do Not Know	15	0.97	0.66
+	9	Refused	24	1.55	2.75
+	Blank	Skipped	158436
+	Page 67 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Sex with Same Partner
+	Section: 	Module 2.  Sexual Behavior	Type: 	Question, Module
+	Description: 	10b.  Do you now have sexual intercourse with only the same partner?
+	Column:  220	SAS Variable Name:  	SEX1PTN3
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	1170	75.34	78.28
+	2	No	269	17.32	15.66
+	7	Do Not Know	10	0.64	0.23
+	8	Not applicable	80	5.15	3.78
+	9	Refused	24	1.55	2.06
+	Blank	Skipped	158436
+	Always Use Condoms
+	Section: 	Module 2.  Sexual Behavior	Type: 	Question, Module
+	Description: 	10c.  Do you now always use condoms for protection?
+	Column:  221	SAS Variable Name:  	USECOND3
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	700	45.07	45.82
+	2	No	709	45.65	45.70
+	7	Do Not Know	9	0.58	0.29
+	8	Not applicable	69	4.44	3.47
+	9	Refused	66	4.25	4.71
+	Blank	Skipped	158436
+	Page 68 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Been Pregnant in Past Five Years
+	Section: 	Module 3.  Family Planning	Type: 	Question, Module
+	Description: 	1.  Have you been pregnant in the past five years?
+	Column:  222	SAS Variable Name:  	PREGLST5
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	2743	30.65	31.03
+	2	No	6051	67.62	67.08
+	7	Don't know/Not sure	4	0.04	0.02
+	9	Refused	151	1.69	1.88
+	Blank	Skipped	151040
+	How Did You Feel about Becoming Pregnant (Last Pregnancy)
+	Section: 	Module 3.  Family Planning	Type: 	Question, Module
+	Description: 	2.  Thinking back to your last pregnancy, just before you got pregnant, how did you 
+	feel about becoming pregnant?
+	Column:  223	SAS Variable Name:  	LSTPREG
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	You wanted to be pregnant sooner	342	12.47	11.69
+	2	You wanted to be pregnant later	504	18.37	21.73
+	3	You wanted to be pregnant then	1356	49.43	48.04
+	4	You didn’t want to be pregnant then or at any 	373	13.60	13.02
+	time in the future
+	7	You don’t know	153	5.58	4.81
+	9	Refused	15	0.55	0.72
+	Blank	Skipped	157246
+	Page 69 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	How Did You Feel about Becoming Pregnant (Current Pregnancy)
+	Section: 	Module 3.  Family Planning	Type: 	Question, Module
+	Description: 	2a.  Thinking back to just before you got pregnant with your current pregnancy, how
+	 did you feel about becoming pregnant?
+	Column:  224	SAS Variable Name:  	LSTPREG2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	You wanted to be pregnant sooner	61	16.53	10.86
+	2	You wanted to be pregnant later	87	23.58	34.32
+	3	You wanted to be pregnant then	149	40.38	36.41
+	4	You didn’t want to be pregnant then or at any 	39	10.57	9.01
+	time in the future
+	7	You don’t know	25	6.78	6.37
+	9	Refused	8	2.17	3.03
+	Blank	Skipped	159620
+	Using Any Type of Birth Control
+	Section: 	Module 3.  Family Planning	Type: 	Question, Module
+	Description: 	3.  Are you or your (husband/partner) [Q47] using any kind of birth control now?  
+	Birth control means having your tubes tied, vasectomy, the pill, condoms, 
+	diaphragm, foam, rhythm, Norplant, shots (Depo-provera) or any other way to keep
+	 from getting pregn
+	Column:  225	SAS Variable Name:  	BRTHCNTL
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	5131	63.61	61.28
+	2	No	1884	23.36	24.04
+	3	Not sexually active	762	9.45	10.50
+	7	Don't know/Not sure	25	0.31	0.28
+	9	Refused	264	3.27	3.90
+	Blank	Skipped	151923
+	Page 70 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Kind of Birth Control Used
+	Section: 	Module 3.  Family Planning	Type: 	Question, Module
+	Description: 	4.  What kinds of birth control are you or your [fill in (husband/partner) from core 
+	Q47] using now?
+	Columns:  226-227	SAS Variable Name:  	TYPCNTRL
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	Tubes tied (sterilization)	1294	25.22	22.80
+	02	Vasectomy (sterilization)	585	11.40	9.57
+	03	Pill	1809	35.26	36.64
+	04	Condoms	788	15.36	18.04
+	05	Foam, jelly, cream	35	0.68	0.75
+	06	Diaphragm	58	1.13	1.10
+	07	Norplant	33	0.64	0.58
+	08	Shots (Depo-Provera)	264	5.15	4.99
+	09	Withdrawal	8	0.16	0.18
+	77	Don't know/Not sure	19	0.37	0.47
+	87	Other (specify:                          )	174	3.39	3.72
+	99	Refused	64	1.25	1.15
+	Blank	Skipped	154858
+	Page 71 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Reasons for No Birth Control
+	Section: 	Module 3.  Family Planning	Type: 	Question, Module
+	Description: 	5.  What are your reasons for not using any birth control now?
+	Columns:  228-229	SAS Variable Name:  	RSNNOBC
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	I am not having sex	340	18.05	18.43
+	02	I want to get pregnant	333	17.68	16.00
+	03	I don’t want to use birth control	147	7.80	8.10
+	04	My husband or partner doesn’t want to use birth 	44	2.34	2.73
+	control
+	05	I don’t think I can get pregnant	177	9.39	9.42
+	06	I can’t pay for birth control	19	1.01	0.97
+	77	Don't know/Not sure	136	7.22	6.94
+	87	Other (specify:                          )	603	32.01	32.64
+	99	Refused	85	4.51	4.77
+	Blank	Skipped	158105
+	Page 72 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Usual Source of Services for Female Health Concerns
+	Section: 	Module 3.  Family Planning	Type: 	Question, Module
+	Description: 	6.  Where is your usual source of services for female health concerns, such as 
+	family planning, annual exams, breast exams, tests for sexually transmitted 
+	diseases, and other female health concerns?  Would you say: Please Read
+	Column:  230	SAS Variable Name:  	WHRSVCS
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	A family planning clinic [Example: a Planned 	596	6.40	7.40
+	Parenthood clinic]
+	2	A health department clinic	764	8.20	7.73
+	3	A community health center	203	2.18	2.23
+	4	A private gynecologist	4551	48.84	52.82
+	5	A general or family physician	2569	27.57	22.05
+	7	Don’t know/not sure	173	1.86	2.45
+	8	Some other kind of place	203	2.18	2.44
+	9	Refused	259	2.78	2.87
+	Blank	Skipped	150671
+	Ever use services at family planning clinic
+	Section: 	Module 3.  Family Planning	Type: 	Question, Module
+	Description: 	7.  Have you ever used the services at a family planning clinic?
+	Column:  231	SAS Variable Name:  	FAMPLAN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	2712	31.09	28.11
+	2	No	5755	65.98	68.71
+	7	Don’t know/not sure	57	0.65	0.61
+	9	Refused	198	2.27	2.57
+	Blank	Skipped	151267
+	Page 73 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	How Long Since used Family Planning Services
+	Section: 	Module 3.  Family Planning	Type: 	Question, Module
+	Description: 	8.  How long has it been since you used the services at family planning clinic?
+	Column:  232	SAS Variable Name:  	LASTUSED
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Within the past year (1 to 12 months ago)	897	27.12	30.05
+	2	Within the past 2 years (1 to 2 years ago)	277	8.37	9.16
+	3	Within the past 3 years (2 to 3 years ago)	167	5.05	6.10
+	4	Within the past 5 years (3 to 5 years ago)	234	7.07	6.96
+	5	5 or more years ago	1687	51.00	46.35
+	7	Don’t know/not sure	43	1.30	1.27
+	9	Refused	3	0.09	0.12
+	Blank	Skipped	156681
+	Page 74 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Main Reason Without Health Care Coverage
+	Section: 	Module 4.  Health Care Coverage	Type: 	Question, Module
+	Description: 	1.  What is the main reason you are without health care coverage?
+	Columns:  233-234	SAS Variable Name:  	RSNNOCOV
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	Lost Job or Changed Employers	237	14.74	16.03
+	02	Spouse or Parent Lost Job or Changed 	28	1.74	2.49
+	Employers
+	03	Became Divorced or Separated	13	0.81	1.35
+	04	Spouse or Parent Died	5	0.31	0.07
+	05	Became ineligible because of age or left school	18	1.12	0.97
+	06	Employer doesn't offer or stopped offering 	116	7.21	5.96
+	coverage
+	07	Cut back to part time  or became temporary 	13	0.81	0.42
+	employee
+	08	Benefits from employer or former employer ran 	11	0.68	0.54
+	out
+	09	Could Not Afford to Pay Premiums	772	48.01	37.99
+	10	Insurance Company Refused Coverage	14	0.87	1.40
+	11	Lost Medicaid or Medical Assistance eligibility	20	1.24	2.13
+	77	Don't know/Not sure	51	3.17	3.34
+	87	Other	286	17.79	26.09
+	99	Refused	24	1.49	1.21
+	Blank	Skipped	158381
+	Page 75 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	How Long Had this Health Coverage
+	Section: 	Module 4.  Health Care Coverage	Type: 	Question, Module
+	Description: 	2.  About how long have you had [fill in type (Medicare/Medicaid/this particular 
+	health care coverage) from MEDICAR2, TYPCOVR1, or TYPCOVR2]?
+	Column:  235	SAS Variable Name:  	MCRELNGT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	For less than 12 months (1 to 12 months)	2548	16.57	16.76
+	2	For less than 2 years (1 to 2 years)	1649	10.72	11.68
+	3	For less than 3 years (2 to 3 years)	1405	9.14	9.94
+	4	For less than 5 years (3 to 5 years)	1605	10.44	10.45
+	5	5 or more years	7688	50.00	47.92
+	7	Don't know/Not sure	250	1.63	2.06
+	9	Refused	232	1.51	1.20
+	Blank	Skipped	144612
+	Book or List of Doctors with Plan
+	Section: 	Module 4.  Health Care Coverage	Type: 	Question, Module
+	Description: 	3.  Is there a book or list of doctors associated with your [fill in type 
+	(Medicare/Medicaid/health coverage) from MEDICAR2, TYPCOVR1, or 
+	TYPCOVR2] plan?
+	Column:  236	SAS Variable Name:  	DOCTLIST
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	9758	63.46	70.15
+	2	No	4776	31.06	24.10
+	7	Don't know/Not sure	605	3.93	4.53
+	9	Refused	238	1.55	1.22
+	Blank	Skipped	144612
+	Page 76 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Plan Requires Certain Doctor/Clinic
+	Section: 	Module 4.  Health Care Coverage	Type: 	Question, Module
+	Description: 	4.  Does your [fill in type (Medicare/Medicaid/health coverage) from MEDICAR2,
+	 TYPCOVR1, or TYPCOVR2] plan require you to select a certain doctor or clinic 
+	for all of your routine care?
+	Column:  237	SAS Variable Name:  	CERTDOCT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	5888	38.29	47.73
+	2	No	8545	55.57	47.18
+	7	Don't know/Not sure	706	4.59	3.92
+	9	Refused	238	1.55	1.17
+	Blank	Skipped	144612
+	Any Other Type Health Care Coverage
+	Section: 	Module 4.  Health Care Coverage	Type: 	Question, Module
+	Description: 	5.  Other than [fill in type (Medicare/Medicaid/the health coverage which pays for 
+	most of your medical care) from core MEDICAR2, TYPCOVR1, or TYPCOVR2], 
+	do you have any other type of health care coverage?
+	Column:  238	SAS Variable Name:  	HLTHCOVR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	3768	24.50	19.92
+	2	No	11230	73.03	77.45
+	7	Don't know/Not sure	135	0.88	1.35
+	9	Refused	244	1.59	1.28
+	Blank	Skipped	144612
+	Page 77 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Reason No Coverage in Past Twelve Months
+	Section: 	Module 4.  Health Care Coverage	Type: 	Question, Module
+	Description: 	6.  What was the main reason you were without health care coverage?
+	Columns:  239-240	SAS Variable Name:  	RSNWOCOV
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	Lost Job or Changed Employers	284	34.13	34.55
+	02	Spouse or Parent Lost Job or Changed 	42	5.05	6.78
+	Employers
+	03	Became Divorced or Separated	12	1.44	1.60
+	05	Became ineligible because of age or left school	25	3.00	1.80
+	06	Employer doesn't offer or stopped offering 	50	6.01	7.06
+	coverage
+	07	Cut back to part time or became temporary 	14	1.68	0.85
+	employee
+	08	Benefits from employer or former employer ran 	9	1.08	1.09
+	out
+	09	Could Not Afford to Pay Premiums	192	23.08	16.10
+	10	Insurance Company Refused Coverage	6	0.72	2.16
+	11	Lost Medicaid or Medical Assistance eligibility	10	1.20	0.73
+	77	Don't know/Not sure	28	3.37	1.28
+	87	Other	132	15.87	22.25
+	99	Refused	28	3.37	3.77
+	Blank	Skipped	159157
+	Page 78 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Rate Satisfaction with Overall Care
+	Section: 	Module 5.  Health Care Utilization	Type: 	Question, Module
+	Description: 	1.  How would you rate your satisfaction with your overall health care?
+	Column:  241	SAS Variable Name:  	RATECARE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Excellent	1229	23.43	23.94
+	2	Very Good	1550	29.55	28.85
+	3	Good	1431	27.28	27.43
+	4	Fair	452	8.62	8.16
+	5	Poor	151	2.88	2.31
+	7	Don't know/Not sure	142	2.71	3.15
+	8	Not applicable/Don't use health services	238	4.54	5.38
+	9	Refused	53	1.01	0.78
+	Blank	Skipped	154743
+	Particular Doctor or Clinic
+	Section: 	Module 5.  Health Care Utilization	Type: 	Question, Module
+	Description: 	2.  Is there one particular clinic, health center, doctor's office, or other place that 
+	you usually go to if you are sick or need advice about your health?
+	Column:  242	SAS Variable Name:  	PRIMCARE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	4331	82.56	81.88
+	2	More than One Place	198	3.77	3.73
+	3	No	609	11.61	12.63
+	7	Don't know/Not sure	52	0.99	0.91
+	9	Refused	56	1.07	0.85
+	Blank	Skipped	154743
+	Page 79 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Main Reason No Usual Source of Care
+	Section: 	Module 5.  Health Care Utilization	Type: 	Question, Module
+	Description: 	3.  What is the main reason you do not have a usual source of medical care?
+	Columns:  243-244	SAS Variable Name:  	NOPRIMCR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	Two or More Usual Places	39	6.40	4.05
+	02	Have Not Needed a Doctor	190	31.20	31.24
+	03	Don't like/trust/believe in doctors	22	3.61	2.02
+	04	Don't know where to go	15	2.46	1.42
+	05	Previous doctor is not available or moved	15	2.46	4.06
+	06	No insurance or can't afford	55	9.03	9.23
+	07	Speak a Different Language	3	0.49	1.49
+	08	No place available/close enough/convenient	17	2.79	2.46
+	09	Other	165	27.09	24.61
+	77	Don't know/Not sure	83	13.63	17.62
+	99	Refused	5	0.82	1.81
+	Blank	Skipped	159380
+	One Place You Go Most Often
+	Section: 	Module 5.  Health Care Utilization	Type: 	Question, Module
+	Description: 	4.  Is there one of these places that you go to most often when you are sick or need 
+	advice about your health?
+	Column:  245	SAS Variable Name:  	MOSTCARE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	131	55.27	45.42
+	2	No	103	43.46	53.41
+	7	Don't know/Not sure	2	0.84	0.72
+	9	Refused	1	0.42	0.44
+	Blank	Skipped	159752
+	Page 80 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Place You Go most Often When Sick or Need Advice
+	Section: 	Module 5.  Health Care Utilization	Type: 	Question, Module
+	Description: 	5.  What kind of place is it? (Place you go most often when you are sick or need 
+	advice about your health)
+	Column:  246	SAS Variable Name:  	FACILIT2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Doctors Office or HMO	3214	72.03	73.41
+	2	Clinic or Health Center	801	17.95	17.20
+	3	Hospital Outpatient Department	186	4.17	3.50
+	4	Hospital Emergency Room	84	1.88	1.43
+	5	Urgent Care Center	76	1.70	1.98
+	7	Do Not Know	20	0.45	0.31
+	8	Some Other Kind of Place	78	1.75	2.12
+	9	Refused	3	0.07	0.04
+	Blank	Skipped	155527
+	Page 81 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Convenience of Medical Facility Location
+	Section: 	Module 5.  Health Care Utilization	Type: 	Question, Module
+	Description: 	6.  Thinking of the distance or time you travel to get to the place you usually go to, 
+	how would you rate the convenience of that place?
+	Column:  247	SAS Variable Name:  	DISTCARE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Excellent	1540	34.51	34.69
+	2	Very Good	1189	26.65	25.91
+	3	Good	1231	27.59	29.15
+	4	Fair	359	8.05	7.76
+	5	Poor	115	2.58	1.99
+	6	Don't have usual place	3	0.07	0.06
+	7	Don't know/Not sure	23	0.52	0.43
+	9	Refused	2	0.04	0.02
+	Blank	Skipped	155527
+	Usual doctor for Routine care
+	Section: 	Module 5.  Health Care Utilization	Type: 	Question, Module
+	Description: 	7.  Is there one particular doctor or health professional who you usually go to when
+	 you need routine medical care?
+	Column:  248	SAS Variable Name:  	NUMBDOC2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes, Only One	3711	83.17	82.35
+	2	More than One	380	8.52	8.60
+	3	No	359	8.05	8.75
+	7	Don't know/Not sure	10	0.22	0.19
+	9	Refused	2	0.04	0.11
+	Blank	Skipped	155527
+	Page 82 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Last Changed Doctors
+	Section: 	Module 5.  Health Care Utilization	Type: 	Question, Module
+	Description: 	8.  When did you last change doctors?
+	Column:  249	SAS Variable Name:  	CHNGDOCT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Within past year (1 to 12 months ago)	541	14.58	13.72
+	2	Within past 2 years (1 to 2 years ago)	383	10.32	11.83
+	3	Within past 3 years (2 to 3 years ago)	318	8.57	9.26
+	4	Within past 5 years (3 to 5 years ago)	309	8.33	8.26
+	5	5 or More Years Ago	1377	37.11	35.12
+	7	Don't know/Not sure	95	2.56	2.32
+	8	Never	682	18.38	19.24
+	9	Refused	6	0.16	0.24
+	Blank	Skipped	156278
+	Page 83 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Reason Changed Doctors Last Time
+	Section: 	Module 5.  Health Care Utilization	Type: 	Question, Module
+	Description: 	9.  Why did you change doctors that last time?
+	Columns:  250-251	SAS Variable Name:  	LASTCHNG
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	Changed Residence or Moved	726	24.80	23.52
+	02	Changed Jobs	100	3.42	5.56
+	03	Changed Health Care Coverage	414	14.14	15.75
+	04	Provider Moved or Retired	759	25.92	25.27
+	05	Dissatisfied with former provider or liked new 	344	11.75	11.02
+	provider better
+	06	Former provider no longer reimbursed by my 	92	3.14	2.90
+	health care coverage
+	07	Owed Money to Former Provider	4	0.14	0.16
+	08	Medical Care Needs Changed	90	3.07	3.16
+	77	Don't know/Not sure	91	3.11	2.77
+	87	Other	300	10.25	9.76
+	99	Refused	8	0.27	0.12
+	Blank	Skipped	157061
+	Ever Told Had Asthma by Doctor
+	Section: 	Module 6.  Asthma	Type: 	Question, Module
+	Description: 	1.  Did a doctor ever tell you that you had asthma?
+	Column:  252	SAS Variable Name:  	ASTHMA
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	5463	10.84	10.50
+	2	No	44290	87.85	88.12
+	7	Don’t know/Not sure	63	0.12	0.17
+	9	Refused	600	1.19	1.21
+	Blank	Skipped	109573
+	Page 84 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Still Have Asthma
+	Section: 	Module 6.  Asthma	Type: 	Question, Module
+	Description: 	2.  Do you still have asthma?
+	Column:  253	SAS Variable Name:  	ASTHNOW
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	3567	65.29	62.58
+	2	No	1777	32.53	34.92
+	7	Don’t know/Not sure	117	2.14	2.47
+	9	Refused	2	0.04	0.03
+	Blank	Skipped	154526
+	Doctor Talked About Eating Habits
+	Section: 	Module 7.  Preventive Counseling Services	Type: 	Question, Module
+	Description: 	1.  Has a doctor or other health professional ever talked with you about your diet 
+	or eating habits?
+	Column:  254	SAS Variable Name:  	PCSEATHB
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes, within past 12 months (1 to 12 months ago)	4037	25.70	25.48
+	2	Yes, within past 3 years (1 to 3 years ago)	1388	8.83	8.47
+	3	Yes, 3 or more years ago	1117	7.11	6.70
+	4	No	8934	56.86	57.79
+	7	Don't know/Not sure	67	0.43	0.42
+	9	Refused	168	1.07	1.15
+	Blank	Skipped	144278
+	Page 85 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Doctor Talked About Exercise or Physical Activity
+	Section: 	Module 7.  Preventive Counseling Services	Type: 	Question, Module
+	Description: 	2.  Has a doctor or other health professional ever talked with you about physical 
+	activity or exercise?
+	Column:  255	SAS Variable Name:  	PCSEXER
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes, within past 12 months (1 to 12 months ago)	4907	31.23	30.54
+	2	Yes, within past 3 years (1 to 3 years ago)	1302	8.29	8.35
+	3	Yes, 3 or more years ago	855	5.44	5.31
+	4	No	8380	53.34	53.97
+	7	Don't know/Not sure	97	0.62	0.67
+	9	Refused	170	1.08	1.16
+	Blank	Skipped	144278
+	Doctor Talked About Injury Prevention
+	Section: 	Module 7.  Preventive Counseling Services	Type: 	Question, Module
+	Description: 	3.  (Has a doctor or other health professional ever talked with you) about injury 
+	prevention, such as safety belt use, helmet use, or smoke detectors?
+	Column:  256	SAS Variable Name:  	PCSINJPV
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes, within past 12 months (1 to 12 months ago)	1888	12.02	12.24
+	2	Yes, within past 3 years (1 to 3 years ago)	474	3.02	2.91
+	3	Yes, 3 or more years ago	313	1.99	1.77
+	4	No	12735	81.06	81.18
+	7	Don't know/Not sure	128	0.81	0.72
+	9	Refused	173	1.10	1.18
+	Blank	Skipped	144278
+	Page 86 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Doctor Talked About Drug Abuse
+	Section: 	Module 7.  Preventive Counseling Services	Type: 	Question, Module
+	Description: 	4.  (Has a doctor or other health professional ever talked with you) about drug 
+	abuse?
+	Column:  257	SAS Variable Name:  	PCSDRGAB
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes, within past 12 months (1 to 12 months)	1160	7.38	8.40
+	2	Yes, within past 3 years (1 to 3 years)	351	2.23	2.50
+	3	Yes, 3 or more years ago	403	2.57	2.40
+	4	No	13568	86.36	85.14
+	7	Don't know/Not sure	54	0.34	0.36
+	9	Refused	175	1.11	1.22
+	Blank	Skipped	144278
+	Doctor Talked About Alcohol Use
+	Section: 	Module 7.  Preventive Counseling Services	Type: 	Question, Module
+	Description: 	5.  (Has a doctor or other health professional ever talked with you) about alcohol 
+	use?
+	Column:  258	SAS Variable Name:  	PCSALCH
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes, within past 12 months (1 to 12 months ago)	1360	8.66	9.58
+	2	Yes, within past 3 years (1 to 3 years ago)	443	2.82	3.11
+	3	Yes, 3 or more years ago	527	3.35	2.99
+	4	No	13168	83.81	82.90
+	7	Don't know/Not sure	35	0.22	0.19
+	9	Refused	178	1.13	1.23
+	Blank	Skipped	144278
+	Page 87 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Doctor Talked About Quitting Smoking
+	Section: 	Module 7.  Preventive Counseling Services	Type: 	Question, Module
+	Description: 	6.  (Has a doctor or other health professional) ever advised you to quit smoking?
+	Column:  259	SAS Variable Name:  	PCSSMOK
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes, within past 12 months (1 to 12 months ago)	2087	54.25	54.12
+	2	Yes, within past 3 years (1 to 3 years ago)	509	13.23	12.50
+	3	Yes, 3 or more years ago	378	9.83	9.29
+	4	No	815	21.19	22.67
+	7	Don't know/Not sure	19	0.49	0.25
+	9	Refused	39	1.01	1.16
+	Blank	Skipped	156142
+	Doctor Talked About Sexual Practices
+	Section: 	Module 7.  Preventive Counseling Services	Type: 	Question, Module
+	Description: 	7.  (Has a doctor or other health professional) ever talked with you about your 
+	sexual practices, including family planning, sexually transmitted diseases, AIDS, or
+	 the use of condoms?
+	Column:  260	SAS Variable Name:  	PCSAIDS
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes, within past 12 months (1 to 12 months ago)	1725	13.39	14.21
+	2	Yes, within past 3 years (1 to 3 years ago)	612	4.75	4.81
+	3	Yes, 3 or more years ago	982	7.62	6.77
+	4	No	9371	72.74	72.55
+	7	Don't know/Not sure	46	0.36	0.41
+	9	Refused	147	1.14	1.24
+	Blank	Skipped	147106
+	Page 88 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Doctor Advised Fewer Fat/Cholesterol
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	1a.  To lower your risk of developing heart disease or stroke, has a doctor advised 
+	you to...Eat fewer high fat or high cholesterol foods?
+	Column:  261	SAS Variable Name:  	CVDFATRK
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	19667	37.10	35.75
+	2	No	32278	60.89	61.90
+	7	Don't know/Not sure	315	0.59	0.54
+	9	Refused	754	1.42	1.82
+	Blank	Skipped	106975
+	Doctor Advised Exercise More
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	1b.  To lower your risk of developing heart disease or stroke, has a doctor advised
+	 you to...Exercise more?
+	Column:  262	SAS Variable Name:  	CVDEXRSK
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	23004	43.39	42.91
+	2	No	29058	54.81	54.96
+	7	Don't know/Not sure	200	0.38	0.34
+	9	Refused	752	1.42	1.79
+	Blank	Skipped	106975
+	Page 89 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Are You Eating Fewer Fat/Cholesterol
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	2a.  To lower your risk of developing heart disease or stroke, are you?...Eating 
+	fewer high fat or high cholesterol foods?
+	Column:  263	SAS Variable Name:  	CVDFAT02
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	33889	63.92	62.38
+	2	No	17742	33.47	34.51
+	7	Don't know/Not sure	601	1.13	1.25
+	9	Refused	782	1.48	1.86
+	Blank	Skipped	106975
+	Are You Exercising More
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	2b.  To lower your risk of developing heart disease or stroke, are you?...Exercising
+	 more?
+	Column:  264	SAS Variable Name:  	CVDEXR02
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	31882	60.14	60.15
+	2	No	20164	38.04	37.70
+	7	Don't know/Not sure	188	0.35	0.30
+	9	Refused	780	1.47	1.85
+	Blank	Skipped	106975
+	Page 90 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Ever Told Had Myocardial Infarction
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	3a.  Has a doctor ever told you that you had...Heart attack or myocardial 
+	infarction?
+	Column:  265	SAS Variable Name:  	CVDINFAR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	2589	4.88	4.47
+	2	No	49540	93.45	93.49
+	7	Don't know/Not sure	105	0.20	0.21
+	9	Refused	780	1.47	1.83
+	Blank	Skipped	106975
+	Ever Told Had Coronary Heart Disease
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	3b.  Has a doctor ever told you that you had...Angina or coronary heart disease?
+	Column:  266	SAS Variable Name:  	CVDCORHD
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	2537	4.79	4.21
+	2	No	49490	93.35	93.59
+	7	Don't know/Not sure	197	0.37	0.35
+	9	Refused	790	1.49	1.85
+	Blank	Skipped	106975
+	Page 91 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Ever Told Had Stroke
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	3c.  Has a doctor ever told you that you had...Stroke?
+	Column:  267	SAS Variable Name:  	CVDSTROK
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	1488	2.81	2.38
+	2	No	50667	95.57	95.64
+	7	Don't know/Not sure	71	0.13	0.14
+	9	Refused	788	1.49	1.85
+	Blank	Skipped	106975
+	Take Aspirin Daily or Every Other Day
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	4.  Do you take aspirin daily or every other day?
+	Column:  268	SAS Variable Name:  	CVDASPRN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	10506	26.96	26.56
+	2	No	27760	71.23	71.39
+	7	Don't know/Not sure	73	0.19	0.21
+	9	Refused	636	1.63	1.84
+	Blank	Skipped	121014
+	Page 92 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Health Makes Taking Aspirin Unsafe
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	5.  Do you have a health problem or condition that makes taking aspirin unsafe for 
+	you?
+	Column:  269	SAS Variable Name:  	ASPUNSAF
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes, Not Stomach Related	1939	6.81	6.16
+	2	Yes, Stomach Problems	2674	9.39	8.53
+	3	No	22974	80.70	82.16
+	7	Don't know/Not sure	243	0.85	0.63
+	9	Refused	639	2.24	2.53
+	Blank	Skipped	131520
+	Take Aspirin to Relieve Pain
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	6.  Why do you take aspirin?  To relieve pain
+	Column:  270	SAS Variable Name:  	WHYASPAN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	3050	29.03	28.89
+	2	No	7329	69.76	69.85
+	7	Don't know/Not sure	110	1.05	1.10
+	9	Refused	17	0.16	0.15
+	Blank	Skipped	149483
+	Page 93 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Take Aspirin to Reduce Heart Attack
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	Why do you take aspirin?  To reduce the chance of a heart attack
+	Column:  271	SAS Variable Name:  	WHYASPHA
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	7971	75.87	76.10
+	2	No	2290	21.80	21.45
+	7	Don't know/Not sure	225	2.14	2.24
+	9	Refused	20	0.19	0.20
+	Blank	Skipped	149483
+	Take Aspirin to Reduce Stroke
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	Why do you take aspirin?  To reduce the chance of a stroke
+	Column:  272	SAS Variable Name:  	WHYASPSK
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	6713	63.90	63.82
+	2	No	3385	32.22	32.02
+	7	Don't know/Not sure	389	3.70	3.99
+	9	Refused	19	0.18	0.17
+	Blank	Skipped	149483
+	Page 94 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Gone Through Menopause
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	7.  Have you gone through or are you now going through menopause?
+	Column:  273	SAS Variable Name:  	PASTMENO
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes, Have Gone Through Menopause	2579	22.08	21.41
+	2	Yes, Now Going Through Menopause	2047	17.53	17.92
+	3	No	6275	53.72	53.84
+	7	Don't know/Not sure	521	4.46	3.92
+	9	Refused	258	2.21	2.91
+	Blank	Skipped	148309
+	Doc Discussed Benefits/Risks of Estrogen
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	8.  Estrogens such as Premarin and progestins such as Provera are female 
+	hormones that may be prescribed around the time of menopause, after menopause, 
+	or after a hysterectomy.  Has your doctor discussed the benefits and risks of 
+	estrogen with you?
+	Column:  274	SAS Variable Name:  	DICSESTR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	9778	58.82	59.61
+	2	No	6454	38.82	38.24
+	7	Don't know/Not sure	132	0.79	0.67
+	9	Refused	261	1.57	1.48
+	Blank	Skipped	143364
+	Page 95 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Doctor Prescribed Estrogen Pills
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	9.  Other than birth control pills, has your doctor ever prescribed estrogen pills for 
+	you?
+	Column:  275	SAS Variable Name:  	ESTRPILL
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	7584	45.62	44.80
+	2	No	8684	52.23	53.23
+	7	Don't know/Not sure	92	0.55	0.48
+	9	Refused	265	1.59	1.50
+	Blank	Skipped	143364
+	Currently Taking Estrogen
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	10.  Are you currently taking estrogen pills?
+	Column:  276	SAS Variable Name:  	CURESTRO
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	5222	68.86	66.74
+	2	No	2351	31.00	33.15
+	7	Don't know/Not sure	8	0.11	0.10
+	9	Refused	3	0.04	0.01
+	Blank	Skipped	152405
+	Page 96 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Take/Took Estrogen to Prevent Heart Attack
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	11a.  Why...  are you taking...[if "Yes" to CURESTRO]   did you take...[if "No" to 
+	CURESTRO]   ...estrogen pills?  To prevent a heart attack
+	Column:  277	SAS Variable Name:  	ESTRHART
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	1810	23.90	23.76
+	2	No	5314	70.18	70.40
+	7	Don't know/Not sure	342	4.52	4.45
+	8	Never Took	88	1.16	1.20
+	9	Refused	18	0.24	0.18
+	Blank	Skipped	152417
+	Take/Took Estrogen for Bones
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	11b.  Why...  are you taking...[if "Yes" to CURESTRO]   did you take...[if "No" to 
+	CURESTRO]   ...estrogen pills?  To treat or prevent bone thinning, bone loss, or 
+	osteoporosis
+	Column:  278	SAS Variable Name:  	ESTRBONE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	4062	53.65	55.05
+	2	No	2993	39.53	37.82
+	7	Don't know/Not sure	356	4.70	4.59
+	8	Never Took	147	1.94	2.43
+	9	Refused	14	0.18	0.11
+	Blank	Skipped	152417
+	Page 97 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Take/Took Estrogen to Treat Menopause
+	Section: 	Module 8.  Cardiovascular Disease	Type: 	Question, Module
+	Description: 	11c.  Why...  are you taking...[if "Yes" to CURESTRO]   did you take...[if "No" to 
+	CURESTRO]   ...estrogen pills?  To treat symptoms of menopause such as hot 
+	flashes
+	Column:  279	SAS Variable Name:  	ESTRFLSH
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	5128	67.72	67.47
+	2	No	1963	25.92	25.90
+	7	Don't know/Not sure	283	3.74	3.42
+	8	Never Took	183	2.42	3.09
+	9	Refused	15	0.20	0.12
+	Blank	Skipped	152417
+	Had Pain, Aching, Stiffness, Swelling
+	Section: 	Module 9.  Arthritis	Type: 	Question, Module
+	Description: 	1.  During the past 12 months, have you had pain, aching, stiffness or swelling in or
+	 around a joint?
+	Column:  280	SAS Variable Name:  	PAIN12MN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	9223	41.50	38.65
+	2	No	12658	56.96	59.72
+	7	Don't know/Not sure	43	0.19	0.23
+	9	Refused	299	1.35	1.41
+	Blank	Skipped	137766
+	Page 98 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Symptoms Present at Least One Month
+	Section: 	Module 9.  Arthritis	Type: 	Question, Module
+	Description: 	2.  Were these symptoms present on most days for at least one month?
+	Column:  281	SAS Variable Name:  	SYMTMMTH
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	5072	54.99	53.07
+	2	No	4049	43.90	45.71
+	7	Don't know/Not sure	94	1.02	1.13
+	9	Refused	8	0.09	0.09
+	Blank	Skipped	150766
+	Limited Because of Joint Symptoms
+	Section: 	Module 9.  Arthritis	Type: 	Question, Module
+	Description: 	3.  Are you now limited in any way in any activities because of joint symptoms?
+	Column:  282	SAS Variable Name:  	LMTJOINT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	3156	34.22	31.66
+	2	No	6039	65.48	68.08
+	7	Don't know/Not sure	18	0.20	0.20
+	9	Refused	10	0.11	0.07
+	Blank	Skipped	150766
+	Page 99 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Told Have Arthritis by Doctor
+	Section: 	Module 9.  Arthritis	Type: 	Question, Module
+	Description: 	4.  Have you ever been told by a doctor that you have arthritis?
+	Column:  283	SAS Variable Name:  	HAVARTH
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	5870	26.41	22.80
+	2	No	15978	71.90	75.44
+	7	Don't know/Not sure	66	0.30	0.34
+	9	Refused	309	1.39	1.42
+	Blank	Skipped	137766
+	Type Arthritis Doctor Diagnosed
+	Section: 	Module 9.  Arthritis	Type: 	Question, Module
+	Description: 	5.  What type of arthritis did the doctor say you have?
+	Columns:  284-285	SAS Variable Name:  	TYPEARTH
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	Osteoarthritis/Degenerative Arthritis	1567	26.70	24.29
+	02	Rheumatism	222	3.78	4.10
+	03	Rheumatoid Arthritis	621	10.58	11.34
+	04	Lyme Disease	1	0.02	0.01
+	07	Other	349	5.95	6.49
+	77	Don't know/Not sure	3050	51.96	52.63
+	88	Never Saw a Doctor	49	0.83	0.97
+	99	Refused	11	0.19	0.17
+	Blank	Skipped	154119
+	Page 100 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Currently Treated for Arthritis
+	Section: 	Module 9.  Arthritis	Type: 	Question, Module
+	Description: 	6.  Are you currently being treated by a doctor for arthritis?
+	Column:  286	SAS Variable Name:  	TRTARTH
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	2510	42.76	39.82
+	2	No	3343	56.95	59.80
+	7	Don't know/Not sure	12	0.20	0.29
+	9	Refused	5	0.09	0.09
+	Blank	Skipped	154119
+	How Often Do You Drink Fruit Juices
+	Section: 	Module 10.  Fruits and Vegetables	Type: 	Question, Rotating Core II
+	Description: 	1.  How often do you drink fruit juices such as orange, grapefruit, or tomato?
+	Columns:  287-289	SAS Variable Name:  	FRUITJUI
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	101-199	Per Day	8250	43.01	44.99
+	201-299	Per Week	6736	35.12	35.27
+	301-399	Per Month	2303	12.01	10.74
+	401-499	Per Year	239	1.25	1.34
+	555	Never	1208	6.30	5.86
+	777	Don't know/Not sure	190	0.99	0.64
+	999	Refused	256	1.33	1.17
+	Blank	Skipped	140807
+	Page 101 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	How Often Do You Eat Fruit
+	Section: 	Module 10.  Fruits and Vegetables	Type: 	Question, Rotating Core II
+	Description: 	2.  Not counting juice, how often do you eat fruit?
+	Columns:  290-292	SAS Variable Name:  	FRUIT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	101-199	Per Day	8324	43.39	44.05
+	201-299	Per Week	7760	40.45	40.74
+	301-399	Per Month	2045	10.66	10.19
+	401-499	Per Year	143	0.75	1.05
+	555	Never	441	2.30	2.00
+	777	Don't know/Not sure	208	1.08	0.78
+	999	Refused	261	1.36	1.19
+	Blank	Skipped	140807
+	How Often Do You Eat Green Salad
+	Section: 	Module 10.  Fruits and Vegetables	Type: 	Question, Rotating Core II
+	Description: 	3.  How often do you eat green salad?
+	Columns:  293-295	SAS Variable Name:  	GREENSAL
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	101-199	Per Day	3976	20.73	21.86
+	201-299	Per Week	11664	60.81	60.54
+	301-399	Per Month	2283	11.90	11.59
+	401-499	Per Year	121	0.63	0.74
+	555	Never	692	3.61	3.29
+	777	Don't know/Not sure	179	0.93	0.74
+	999	Refused	267	1.39	1.24
+	Blank	Skipped	140807
+	Page 102 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	How Often Do You Eat Potatoes
+	Section: 	Module 10.  Fruits and Vegetables	Type: 	Question, Rotating Core II
+	Description: 	4.  How often do you eat potatoes not including french fries, fried potatoes, or 
+	potato chips?
+	Columns:  296-298	SAS Variable Name:  	POTATOES
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	101-199	Per Day	1617	8.43	8.73
+	201-299	Per Week	13295	69.31	70.89
+	301-399	Per Month	3144	16.39	14.97
+	401-499	Per Year	125	0.65	0.69
+	555	Never	559	2.91	2.96
+	777	Don't know/Not sure	171	0.89	0.51
+	999	Refused	271	1.41	1.26
+	Blank	Skipped	140807
+	How Often Do You Eat Carrots
+	Section: 	Module 10.  Fruits and Vegetables	Type: 	Question, Rotating Core II
+	Description: 	5.  How often do you eat carrots?
+	Columns:  299-301	SAS Variable Name:  	CARROTS
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	101-199	Per Day	1926	10.04	10.94
+	201-299	Per Week	9668	50.40	49.59
+	301-399	Per Month	4744	24.73	24.00
+	401-499	Per Year	410	2.14	2.27
+	555	Never	1756	9.15	10.62
+	777	Don't know/Not sure	406	2.12	1.32
+	999	Refused	272	1.42	1.26
+	Blank	Skipped	140807
+	Page 103 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Servings of Vegetables
+	Section: 	Module 10.  Fruits and Vegetables	Type: 	Question, Rotating Core II
+	Description: 	6.  Not counting carrots, potatoes, or salad, how many servings of vegetables do 
+	you usually eat?
+	Columns:  302-304	SAS Variable Name:  	VEGETABL
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	101-199	Per Day	12521	65.27	64.80
+	201-299	Per Week	5231	27.27	28.49
+	301-399	Per Month	593	3.09	3.11
+	401-499	Per Year	21	0.11	0.12
+	555	Never	200	1.04	1.08
+	777	Don't know/Not sure	337	1.76	1.13
+	999	Refused	279	1.45	1.26
+	Blank	Skipped	140807
+	Participate in Any Physical Activity
+	Section: 	Module 11.  Exercise	Type: 	Question, Rotating Core II
+	Description: 	1.  During the past month, did you participate in any physical activities or exercises
+	 such as running, calisthenics, golf, gardening, or walking for exercise?
+	Column:  305	SAS Variable Name:  	EXERANY
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	20429	70.34	70.02
+	2	No	8148	28.05	28.58
+	7	Don't know/Not sure	15	0.05	0.05
+	9	Refused	452	1.56	1.34
+	Blank	Skipped	130945
+	Page 104 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Type of Physical Activity
+	Section: 	Module 11.  Exercise	Type: 	Question, Rotating Core II
+	Description: 	2.  What type of physical activity or exercise did you spend the most time doing 
+	during the past month?
+	Columns:  306-307	SAS Variable Name:  	EXERACT1
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	Aerobics class	819	4.01	3.74
+	02	Backpacking	5	0.02	0.01
+	03	Badminton	4	0.02	0.02
+	04	Basketball	458	2.24	2.98
+	05	Bicycling for pleasure	620	3.03	2.78
+	06	Boating (canoeing, rowing, sailing for pleasure 	7	0.03	0.03
+	or camping)
+	07	Bowling	90	0.44	0.50
+	08	Boxing	17	0.08	0.12
+	09	Calisthenics	239	1.17	1.35
+	10	Canoeing, rowing in competition	17	0.08	0.06
+	11	Carpentry	16	0.08	0.08
+	12	Dancing-aerobics/Ballet	137	0.67	0.56
+	13	Fishing from riverbank or boat	38	0.19	0.13
+	14	Gardening (spading, weeding, digging, filling)	1437	7.03	6.07
+	15	Golf	739	3.62	3.70
+	16	Handball	5	0.02	0.01
+	17	Health club exercise	260	1.27	1.37
+	18	Hiking cross country	185	0.91	0.60
+	19	Home exercise	419	2.05	2.18
+	20	Horseback riding	71	0.35	0.33
+	21	Hunting large game -  deer, elk	49	0.24	0.21
+	22	Jogging	285	1.40	1.61
+	23	Judo/Karate	60	0.29	0.38
+	24	Mountain climbing	8	0.04	0.03
+	25	Mowing lawn	89	0.44	0.40
+	26	Paddleball	2	0.01	0.01
+	27	Painting/Papering house	6	0.03	0.02
+	28	Racqetball	51	0.25	0.26
+	Page 105 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Type of Physical Activity
+	Section: 	Module 11.  Exercise	Type: 	Question, Rotating Core II
+	Description: 	2.  What type of physical activity or exercise did you spend the most time doing 
+	during the past month?
+	Columns:  306-307	SAS Variable Name:  	EXERACT1
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	29	Raking lawn	15	0.07	0.12
+	30	Running	1246	6.10	7.24
+	31	Rope skipping	5	0.02	0.02
+	32	Scuba diving	3	0.01	0.00
+	33	Skating - ice or roller	62	0.30	0.42
+	34	Sledding, tobogganing	2	0.01	0.03
+	35	Snorkeling	2	0.01	0.00
+	36	Snow shoeing	2	0.01	0.00
+	37	Snow shoveling by hand	33	0.16	0.41
+	38	Snow blowing	1	0.00	0.00
+	39	Snow skiing	43	0.21	0.17
+	40	Soccer	63	0.31	0.40
+	41	Softball	167	0.82	0.88
+	42	Squash	3	0.01	0.02
+	43	Stair climbing	54	0.26	0.37
+	44	Stream fishing in waders	1	0.00	0.01
+	45	Surfing	36	0.18	0.07
+	46	Swimming laps	287	1.40	1.32
+	47	Table tennis	2	0.01	0.01
+	48	Tennis	128	0.63	0.68
+	49	Touch football	12	0.06	0.08
+	50	Volleyball	84	0.41	0.59
+	51	Walking	10082	49.35	47.04
+	52	Waterskiing	19	0.09	0.08
+	53	Weightlifting	809	3.96	4.62
+	54	Other	858	4.20	4.44
+	55	Bicycling machine exercise	239	1.17	1.17
+	56	Rowing machine exercise	8	0.04	0.07
+	99	Refused	30	0.15	0.18
+	Page 106 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Type of Physical Activity
+	Section: 	Module 11.  Exercise	Type: 	Question, Rotating Core II
+	Description: 	2.  What type of physical activity or exercise did you spend the most time doing 
+	during the past month?
+	Columns:  306-307	SAS Variable Name:  	EXERACT1
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Blank	Skipped	139560
+	Distance in Miles and Tenths
+	Section: 	Module 11.  Exercise	Type: 	Question, Rotating Core II
+	Description: 	3.  How far did you usually walk/run/jog/swim?
+	Columns:  308-310	SAS Variable Name:  	EXERDIS1
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	001-150	Miles and tenths (one implied decimal)	10241	86.05	86.84
+	Blank	Skipped	148088
+	How Many Times Activity Done
+	Section: 	Module 11.  Exercise	Type: 	Question, Rotating Core II
+	Description: 	4.  How many times per week or per month did you take part in this activity during 
+	the past month?
+	Columns:  311-313	SAS Variable Name:  	EXEROFT1
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	101-199	Times per week	16297	79.89	79.98
+	201-299	Times per month	3867	18.96	18.74
+	777	Don't know/Not sure	206	1.01	1.07
+	999	Refused	29	0.14	0.21
+	Blank	Skipped	139590
+	Page 107 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	How Long Activity Done
+	Section: 	Module 11.  Exercise	Type: 	Question, Rotating Core II
+	Description: 	5.  And when you took part in this activity, for how many minutes or hours did you 
+	usually keep at it?
+	Columns:  314-316	SAS Variable Name:  	EXERHMM1
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	001-759	Hours and minutes	19397	95.09	94.86
+	777	Don't know/Not sure	863	4.23	4.30
+	800-959	98	0.48	0.51
+	999	Refused	41	0.20	0.34
+	Blank	Skipped	139590
+	Participate in Another Activity
+	Section: 	Module 11.  Exercise	Type: 	Question, Rotating Core II
+	Description: 	6.  Was there another physical activity or exercise that you participated in during 
+	the last month?
+	Column:  317	SAS Variable Name:  	EXEROTH2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	9053	44.31	42.74
+	2	No	11326	55.44	57.00
+	7	Don't know/Not sure	18	0.09	0.09
+	9	Refused	32	0.16	0.18
+	Blank	Skipped	139560
+	Page 108 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Type of Other Physical Activity
+	Section: 	Module 11.  Exercise	Type: 	Question, Rotating Core II
+	Description: 	7.  What other type of physical activity gave you the next most exercise during the 
+	past month?
+	Columns:  318-319	SAS Variable Name:  	EXERACT2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-56	01-56 (See codes for Exeract1)	9031	99.76	99.76
+	99	Refused	22	0.24	0.24
+	Blank	Skipped	150936
+	Distance in Miles and Tenths
+	Section: 	Module 11.  Exercise	Type: 	Question, Rotating Core II
+	Description: 	8.  How far did you usually walk/run/jog/swim?
+	Columns:  320-322	SAS Variable Name:  	EXERDIS2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	001-150	Miles and tenths (one implied decimal)	2228	86.09	84.47
+	Blank	Skipped	157401
+	Page 109 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	How Many Times Second Activity Done
+	Section: 	Module 11.  Exercise	Type: 	Question, Rotating Core II
+	Description: 	9.  How many times per week or per month did you take part in this activity?
+	Columns:  323-325	SAS Variable Name:  	EXEROFT2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	101-199	Times per week	6718	74.39	74.38
+	201-299	Times per month	2240	24.80	24.68
+	777	Don't know/Not sure	70	0.78	0.92
+	999	Refused	3	0.03	0.02
+	Blank	Skipped	150958
+	How Long Second Activity Done
+	Section: 	Module 11.  Exercise	Type: 	Question, Rotating Core II
+	Description: 	10.  And when you took part in this activity, for how many minutes or hours did you
+	 usually keep at it?
+	Columns:  326-328	SAS Variable Name:  	EXERHMM2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	001-759	Hours and minutes	8780	97.21	97.14
+	777	Don't know/Not sure	195	2.16	2.11
+	800-959	48	0.53	0.63
+	999	Refused	9	0.10	0.12
+	Blank	Skipped	150957
+	Page 110 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Trying to Lose Weight
+	Section: 	Module 12.  Weight Control	Type: 	Question, Rotating Core II
+	Description: 	1.  Are you now trying to lose weight?
+	Column:  329	SAS Variable Name:  	LOSEWT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	1962	39.51	37.98
+	2	No	2922	58.84	60.81
+	7	Don't know/Not sure	6	0.12	0.12
+	9	Refused	76	1.53	1.09
+	Blank	Skipped	155023
+	Trying to Maintain Current Weight
+	Section: 	Module 12.  Weight Control	Type: 	Question, Rotating Core II
+	Description: 	2.  Are you now trying to maintain your current weight, that is to keep from gaining 
+	weight?
+	Column:  330	SAS Variable Name:  	MAINTAIN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	1835	61.09	59.26
+	2	No	1079	35.92	38.76
+	7	Don't know/Not sure	14	0.47	0.23
+	9	Refused	76	2.53	1.75
+	Blank	Skipped	156985
+	Page 111 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Eating Fewer Calories or Less Fat for Weight Control
+	Section: 	Module 12.  Weight Control	Type: 	Question, Rotating Core II
+	Description: 	3.  Are you eating either fewer calories or less fat to…   lose weight? [if "Yes" on 
+	LOSEWT]   keep from gaining weight? [if "Yes" on MAINTAIN]
+	              lose weight? [if "Yes" on Q. 36]
+	              keep from gaining weight? [if "Yes" on Q. 37]
+	Column:  331	SAS Variable Name:  	FEWCAL
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes, Fewer Calories	483	12.72	12.80
+	2	Yes, less Fat	1083	28.52	28.22
+	3	Yes, Fewer Calories and less Fat	1285	33.84	32.32
+	4	No	900	23.70	25.70
+	7	Don't know/Not sure	45	1.19	0.96
+	9	Refused	1	0.03	0.01
+	Blank	Skipped	156192
+	Increased Physical Activity
+	Section: 	Module 12.  Weight Control	Type: 	Question, Rotating Core II
+	Description: 	4.  Are you using physical activity or exercise to...   lose weight? [if "Yes" on 
+	LOSEWT]   keep from gaining weight? [if "Yes" on MAINTAIN]
+	              lose weight? [if "Yes" on Q. 36]
+	              keep from gaining weight? [if "Yes" on Q. 37]
+	Column:  332	SAS Variable Name:  	PHYACT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	2232	58.78	58.68
+	2	No	1552	40.87	41.10
+	7	Don't know/Not sure	13	0.34	0.22
+	Blank	Skipped	156192
+	Page 112 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Desired Weight
+	Section: 	Module 12.  Weight Control	Type: 	Question, Fixed Core
+	Description: 	5.  How much would you like to weigh?
+	Columns:  333-335	SAS Variable Name:  	WTDESIRE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	50-776	Weight	3721	98.00	97.97
+	777	Don't know/Not sure	64	1.69	1.38
+	999	Refused	12	0.32	0.65
+	Blank	Skipped	156192
+	Professional Advice About Weight
+	Section: 	Module 12.  Weight Control	Type: 	Question, Rotating Core II
+	Description: 	6.  In the past 12 months, has a doctor, nurse, or other health professional given you
+	 advice about your weight?
+	Column:  336	SAS Variable Name:  	DRADVICE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes, Lose Weight	665	13.39	12.00
+	2	Yes, Gain Weight	81	1.63	1.53
+	3	Yes, Maintain Current Weight	122	2.46	2.01
+	4	No	4009	80.73	83.17
+	7	Don't know/Not sure	9	0.18	0.12
+	9	Refused	80	1.61	1.17
+	Blank	Skipped	155023
+	Page 113 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Current Vitamin User
+	Section: 	Module 13.  Folic Acid	Type: 	Question, Module
+	Description: 	1.  Do you currently take any vitamin pills or supplements?
+	Column:  337	SAS Variable Name:  	VITAMINS
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	21285	54.44	52.36
+	2	No	17196	43.98	45.40
+	7	Don't know/Not sure	33	0.08	0.06
+	9	Refused	586	1.50	2.18
+	Blank	Skipped	120889
+	Multivitamin User
+	Section: 	Module 13.  Folic Acid	Type: 	Question, Module
+	Description: 	2.  Are any of these a multivitamin?
+	Column:  338	SAS Variable Name:  	MULTIVIT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	16964	79.70	80.89
+	2	No	4107	19.30	18.21
+	7	Don't know/Not sure	211	0.99	0.86
+	9	Refused	3	0.01	0.04
+	Blank	Skipped	138704
+	Page 114 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Vitamins with Folic Acid
+	Section: 	Module 13.  Folic Acid	Type: 	Question, Module
+	Description: 	3.  Do any of the vitamin pills or supplements you take contain folic acid?
+	Column:  339	SAS Variable Name:  	FOLICACD
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	973	22.52	21.69
+	2	No	2158	49.94	51.66
+	7	Don't know/Not sure	1183	27.38	26.37
+	9	Refused	7	0.16	0.28
+	Blank	Skipped	155668
+	Time frequency vitamin use
+	Section: 	Module 13.  Folic Acid	Type: 	Question, Module
+	Description: 	4.  How often do you take this vitamin pill or supplement?
+	Columns:  340-342	SAS Variable Name:  	TAKEVIT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	101-199	Times per day	15943	88.88	88.52
+	201-299	Times per week	1556	8.67	8.82
+	301-399	Times per month	247	1.38	1.64
+	777	Don't know/Not sure	171	0.95	0.94
+	999	Refused	20	0.11	0.09
+	Blank	Skipped	142052
+	Page 115 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Reason to take Folic Acid
+	Section: 	Module 13.  Folic Acid	Type: 	Question, Module
+	Description: 	5.  Some health experts recommend that women take 400 micrograms of the B 
+	vitamin folic acid, for which of the following reasons….
+	Column:  343	SAS Variable Name:  	RECOMMEN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	To make strong bones	2641	13.78	13.31
+	2	To prevent birth defects	6196	32.32	30.34
+	3	To prevent high blood pressure	1024	5.34	5.18
+	4	Some other reason	2744	14.32	14.31
+	7	Don't know/Not sure	6152	32.10	33.42
+	9	Refused	411	2.14	3.43
+	Blank	Skipped	140821
+	Sunscreen Use When Outside for More Than an Hour on a Sunny Summer Day
+	Section: 	Module 14.  Skin Cancer	Type: 	Question, Module
+	Description: 	1.  When you go outside on a sunny summer day for more than one hour, how often 
+	do you use sunscreen or unblock?
+	Column:  344	SAS Variable Name:  	SUNBLOCK
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Always	1881	17.20	15.97
+	2	Nearly always	1583	14.48	11.65
+	3	Sometimes	2028	18.55	18.40
+	4	Seldom	1395	12.76	12.15
+	5	Never	3306	30.23	34.10
+	7	Don’t know/Not sure	16	0.15	0.28
+	8	Don't stay out more than an hour	501	4.58	4.42
+	9	Refused	225	2.06	3.02
+	Blank	Skipped	149054
+	Page 116 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Sun Protection Factor (SPF) Most Often Used
+	Section: 	Module 14.  Skin Cancer	Type: 	Question, Module
+	Description: 	2.  What is the Sun Protection Factor or SPF of the sunscreen you use most often?
+	Columns:  345-346	SAS Variable Name:  	SPFNUM
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01-76	Number	5992	87.00	84.25
+	77	Don’t know/Not sure	881	12.79	15.44
+	99	Refused	14	0.20	0.31
+	Blank	Skipped	153102
+	Staying in Shade When Outside for More Than an Hour on a Sunny Summer Day
+	Section: 	Module 14.  Skin Cancer	Type: 	Question, Module
+	Description: 	3.  When you go outside on a sunny summer day for more than an hour, how often 
+	do you stay in the shade?
+	Column:  347	SAS Variable Name:  	AVOIDSUN
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Always	1026	9.83	13.06
+	2	Nearly always	2182	20.91	20.26
+	3	Sometimes	3867	37.06	34.68
+	4	Seldom	1724	16.52	14.67
+	5	Never	1196	11.46	12.05
+	7	Don’t know/Not sure	203	1.95	1.97
+	9	Refused	236	2.26	3.31
+	Blank	Skipped	149555
+	Page 117 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Hat Use When Outside for More Than an Hour on a Sunny Summer Day
+	Section: 	Module 14.  Skin Cancer	Type: 	Question, Module
+	Description: 	4.  When you go outside on a sunny summer day for more than an hour, how often 
+	do you wear a wide-brimmed hat or any other hat that shades your face, ears, and 
+	neck from the sun?
+	Column:  348	SAS Variable Name:  	SUNHAT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Always	1855	17.78	17.80
+	2	Nearly always	1217	11.66	10.21
+	3	Sometimes	1643	15.75	15.61
+	4	Seldom	1028	9.85	9.05
+	5	Never	4423	42.39	43.67
+	7	Don’t know/Not sure	33	0.32	0.37
+	9	Refused	235	2.25	3.28
+	Blank	Skipped	149555
+	Page 118 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Wearing a Long-Sleeved Shirt When Outside for More Than an Hour on a Sunny Summer 
+	Day
+	Section: 	Module 14.  Skin Cancer	Type: 	Question, Module
+	Description: 	5.  When you go outside on a sunny summer day for more than an hour, how often 
+	do you wear long-sleeved shirts?
+	Column:  349	SAS Variable Name:  	SUNWEAR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Always	659	6.32	5.57
+	2	Nearly always	577	5.53	4.65
+	3	Sometimes	1487	14.25	13.31
+	4	Seldom	1664	15.95	14.32
+	5	Never	5760	55.20	58.25
+	7	Don’t know/Not sure	49	0.47	0.58
+	9	Refused	238	2.28	3.33
+	Blank	Skipped	149555
+	Sensitivity to Sun
+	Section: 	Module 14.  Skin Cancer	Type: 	Question, Module
+	Description: 	6.  Suppose that after several months of not being out in the sun, you then went out 
+	in the sun without a hat, sunscreen, or protective clothing for an hour.  Would you: 
+	Please Read
+	Column:  350	SAS Variable Name:  	SUNSENS
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Sunburn	5249	48.00	41.98
+	2	Darken without sunburn	2847	26.04	25.44
+	3	Not have anything happen	2297	21.01	25.95
+	7	Don’t know/Not sure	272	2.49	3.07
+	9	Refused	270	2.47	3.56
+	Blank	Skipped	149054
+	Page 119 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Burn Type
+	Section: 	Module 14.  Skin Cancer	Type: 	Question, Module
+	Description: 	7.  Suppose that after several months of not being out in the sun, you then went out 
+	in the sun without a hat, sunscreen, or protective clothing for an hour.  Would you: 
+	Please Read
+	Column:  351	SAS Variable Name:  	BURNTYPE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Burn severely with blisters	532	10.14	9.50
+	2	Burn severely with peeling for a few days	1624	30.94	30.83
+	3	Burn mildly without peeling	2965	56.49	56.56
+	7	Don’t know/Not sure	121	2.31	2.87
+	9	Refused	7	0.13	0.23
+	Blank	Skipped	154740
+	How Safe Is Neighborhood from Crime
+	Section: 	Module 15.  Social Context	Type: 	Question, Module
+	Description: 	1.  How safe from crime do you consider your neighborhood to be?
+	Column:  352	SAS Variable Name:  	HOWSAFE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Extremely Safe	1110	23.56	23.48
+	2	Quite Safe	2517	53.43	52.17
+	3	Slightly Safe	698	14.82	14.85
+	4	Not at All Safe	167	3.54	4.13
+	7	Don't know/Not sure	69	1.46	1.49
+	9	Refused	150	3.18	3.87
+	Blank	Skipped	155278
+	Page 120 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Rent or Own Home
+	Section: 	Module 15.  Social Context	Type: 	Question, Module
+	Description: 	2.  Do you own or rent your home?
+	Column:  353	SAS Variable Name:  	RENTHOME
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Own	2834	60.16	57.51
+	2	Rent	1680	35.66	37.71
+	9	Refused	197	4.18	4.77
+	Blank	Skipped	155278
+	How Long at Current Address
+	Section: 	Module 15.  Social Context	Type: 	Question, Module
+	Description: 	3.  How long have you lived at your current address?
+	Column:  354	SAS Variable Name:  	CURADRS
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Less than six months (1 to 6 months)	346	7.34	7.02
+	2	Less than one year (6 to 12 months)	353	7.49	7.20
+	3	Less than two years (1 to 2 years)	369	7.83	7.64
+	4	2 or more years	3470	73.66	73.82
+	7	Don't know/Not sure	8	0.17	0.24
+	9	Refused	165	3.50	4.09
+	Blank	Skipped	155278
+	Page 121 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Number of Friends/Close Relatives to Help
+	Section: 	Module 15.  Social Context	Type: 	Question, Module
+	Description: 	4.  How many close friends or relatives would help you with your emotional 
+	problems or feelings if you needed it?
+	Column:  355	SAS Variable Name:  	NMCLSFRD
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	3 or more	3671	77.92	76.02
+	2	2	349	7.41	7.03
+	3	1	238	5.05	5.62
+	4	None	210	4.46	5.45
+	7	Don't know/Not sure	77	1.63	1.85
+	9	Refused	166	3.52	4.03
+	Blank	Skipped	155278
+	Concerned About Enough Food in Past 30 Days
+	Section: 	Module 15.  Social Context	Type: 	Question, Module
+	Description: 	5.  In the past 30 days, have you been concerned about having enough food for you 
+	or your family?
+	Column:  356	SAS Variable Name:  	ENGHFOOD
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	448	9.51	11.28
+	2	No	4104	87.12	84.85
+	7	Don't know/Not sure	4	0.08	0.06
+	9	Refused	155	3.29	3.81
+	Blank	Skipped	155278
+	Page 122 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Tobacco Use in Home in Past Thirty Days
+	Section: 	Module 16.  Tobacco Use Prevention	Type: 	Question, Module
+	Description: 	1.  In the past 30 days has anyone, including yourself, smoked cigarettes, cigars, or 
+	pipes anywhere inside your home?
+	Column:  357	SAS Variable Name:  	TOBACCO
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	13165	28.77	29.36
+	2	No	31622	69.11	67.83
+	7	Don’t know/not sure	53	0.12	0.12
+	9	Refused	915	2.00	2.69
+	Blank	Skipped	114234
+	Indoor work location
+	Section: 	Module 16.  Tobacco Use Prevention	Type: 	Question, Module
+	Description: 	2.  While working at your job, are you indoors most of the time?
+	Column:  358	SAS Variable Name:  	INDOORS
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes	22159	77.23	75.64
+	2	No	5948	20.73	21.48
+	7	Don’t know/not sure	128	0.45	0.51
+	9	Refused	459	1.60	2.37
+	Blank	Skipped	131295
+	Page 123 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Work Smoking Policy for Indoor Common Areas
+	Section: 	Module 16.  Tobacco Use Prevention	Type: 	Question, Module
+	Description: 	3.  Which of the following best describes your place of work's official smoking 
+	policy for indoor public or common areas, such as lobbies, rest rooms, and lunch 
+	rooms?
+	Column:  359	SAS Variable Name:  	SMKPUBLC
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Not allowed in any public areas	16437	74.18	73.81
+	2	Allowed in some public areas	3528	15.92	16.59
+	3	Allowed in all public areas	697	3.15	3.33
+	4	No official policy	1336	6.03	5.41
+	7	Don’t know/not sure	137	0.62	0.70
+	9	Refused	24	0.11	0.15
+	Blank	Skipped	137830
+	Smoking Policy for Work Areas
+	Section: 	Module 16.  Tobacco Use Prevention	Type: 	Question, Module
+	Description: 	4.  Which of the following best describes your place of work's official smoking 
+	policy for work areas?
+	Column:  360	SAS Variable Name:  	SMKWORK
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Not allowed in any work areas	17920	80.87	80.77
+	2	Allowed in some work areas	2265	10.22	10.59
+	3	Allowed in all work areas	643	2.90	3.18
+	4	No official policy	1190	5.37	4.69
+	7	Don’t know/not sure	119	0.54	0.63
+	9	Refused	22	0.10	0.14
+	Blank	Skipped	137830
+	Page 124 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Areas in Restaurants in Which Smoking Should Be Allowed
+	Section: 	Module 16.  Tobacco Use Prevention	Type: 	Question, Module
+	Description: 	5a.  In the following locations, do you think that smoking should be allowed in all 
+	areas, some areas, or not allowed at all?  Restaurants
+	Column:  361	SAS Variable Name:  	SMKREST
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	All Areas	1065	2.33	2.59
+	2	Some Areas	18805	41.10	40.69
+	3	Not Allowed	23999	52.45	52.06
+	7	Don’t know/not sure	819	1.79	1.61
+	9	Refused	1067	2.33	3.04
+	Blank	Skipped	114234
+	Areas in Schools in Which Smoking Should Be Allowed
+	Section: 	Module 16.  Tobacco Use Prevention	Type: 	Question, Module
+	Description: 	5b.  In the following locations, do you think that smoking should be allowed in all 
+	areas, some areas, or not allowed at all?  Schools
+	Column:  362	SAS Variable Name:  	SMKSCHLS
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	All Areas	209	0.46	0.56
+	2	Some Areas	2428	5.31	5.46
+	3	Not Allowed	41721	91.18	90.30
+	7	Don’t know/not sure	367	0.80	0.75
+	9	Refused	1030	2.25	2.93
+	Blank	Skipped	114234
+	Page 125 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Areas in Day Care Centers in Which Smoking Should Be Allowed
+	Section: 	Module 16.  Tobacco Use Prevention	Type: 	Question, Module
+	Description: 	5c.  In the following locations, do you think that smoking should be allowed in all 
+	areas, some areas, or not allowed at all?  Day care centers
+	Column:  363	SAS Variable Name:  	SMKDAYCR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	All Areas	155	0.34	0.40
+	2	Some Areas	1399	3.06	3.06
+	3	Not Allowed	42836	93.62	92.96
+	7	Don’t know/not sure	328	0.72	0.63
+	9	Refused	1037	2.27	2.95
+	Blank	Skipped	114234
+	Indoor Areas at Work in Which Smoking Should Be Allowed
+	Section: 	Module 16.  Tobacco Use Prevention	Type: 	Question, Module
+	Description: 	5d.  In the following locations, do you think that smoking should be allowed in all 
+	areas, some areas, or not allowed at all?  Indoor work areas
+	Column:  364	SAS Variable Name:  	SMKINDOR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	All Areas	487	1.06	1.20
+	2	Some Areas	10996	24.03	25.25
+	3	Not Allowed	32320	70.64	68.68
+	7	Don’t know/not sure	873	1.91	1.84
+	9	Refused	1079	2.36	3.04
+	Blank	Skipped	114234
+	Page 126 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Ever Used Smokeless Tobacco Products
+	Section: 	Module 17.  Smokeless Tobacco Use	Type: 	Question, Module
+	Description: 	1.  Have you ever used or tried any smokeless tobacco products such as chewing 
+	tobacco or snuff?
+	Column:  365	SAS Variable Name:  	USEEVER
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes, Chewing Tobacco	4817	9.15	7.31
+	2	Yes, Snuff	1594	3.03	3.14
+	3	Yes, Both	2128	4.04	3.85
+	4	No, Neither	43430	82.50	83.86
+	7	Don't know/Not sure	54	0.10	0.13
+	9	Refused	617	1.17	1.71
+	Blank	Skipped	107349
+	Currently Use Smokeless Tobacco Products
+	Section: 	Module 17.  Smokeless Tobacco Use	Type: 	Question, Module
+	Description: 	2.  Do you currently use any smokeless tobacco products such as chewing tobacco 
+	or snuff?
+	Column:  366	SAS Variable Name:  	USENOW
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Yes, Chewing Tobacco	1020	11.95	9.12
+	2	Yes, Snuff	735	8.61	10.10
+	3	Yes, Both	129	1.51	1.64
+	4	No, Neither	6634	77.69	78.84
+	7	Don't know/Not sure	3	0.04	0.09
+	9	Refused	18	0.21	0.21
+	Blank	Skipped	151450
+	Page 127 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	State Added Questions
+	Section: 	State-Added Questions	Type: 	Miscellaneous
+	Columns:  415-598	SAS Variable Name:  	STATEQUE (Character)
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Columns 600-749
+	Section: 	Blank Columns	Type: 	Miscellaneous
+	Columns:  600-749	SAS Variable Name:  	Columns 600-749
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Blank	Intentionally Left Blank
+	Questionnaire Version (For States With Split Samples)
+	Section: 	Sample Design and Weighting Variables	Type: 	Calculated
+	Column:  750	SAS Variable Name:  	_QSTVER
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Version 1	158525	99.08	97.83
+	2	Version 2	1464	0.92	2.17
+	Page 128 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Concatenated Stratification Variables
+	Section: 	Sample Design and Weighting Variables	Type: 	Calculated
+	Columns:  751-756	SAS Variable Name:  	_STSTR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed	Concatenated State FIPS and Stratum Codes
+	Density Stratum Weight
+	Section: 	Sample Design and Weighting Variables	Type: 	Calculated
+	Columns:  757-766	SAS Variable Name:  	_DENWT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Geographic Weight
+	Section: 	Sample Design and Weighting Variables	Type: 	Calculated
+	Columns:  767-776	SAS Variable Name:  	_GEOWT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Number Adults Divided by Number of Residential Phones
+	Section: 	Sample Design and Weighting Variables	Type: 	Calculated
+	Columns:  777-786	SAS Variable Name:  	_RAW
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Page 129 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Unequal Cluster Size Adjustment
+	Section: 	Sample Design and Weighting Variables	Type: 	Calculated
+	Columns:  787-796	SAS Variable Name:  	_CSA
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Design Weighting Factor--Product of Previous Weighting Varibles
+	Section: 	Sample Design and Weighting Variables	Type: 	Calculated
+	Columns:  797-806	SAS Variable Name:  	_WT1
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Poststratification Weight
+	Section: 	Sample Design and Weighting Variables	Type: 	Calculated
+	Columns:  807-816	SAS Variable Name:  	_POSTSTR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Product of _POSTSTR and _WT1
+	Section: 	Calculated Variables	Type: 	Calculated
+	Columns:  817-826	SAS Variable Name:  	_FINALWT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed
+	Page 130 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Geographic Region Within a State (Based on County.  If County Is Missing, Based on 
+	Stratum.  )
+	Section: 	Sample Design and Weighting Variables	Type: 	Calculated
+	Columns:  827-828	SAS Variable Name:  	_REGION
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	112738	70.47	74.50
+	02	12057	7.54	5.85
+	03	8308	5.19	3.83
+	04	8701	5.44	5.82
+	05	6250	3.91	3.03
+	06	3950	2.47	2.16
+	07	3163	1.98	1.79
+	08	1326	0.83	1.17
+	09	286	0.18	0.07
+	10	394	0.25	0.21
+	11	295	0.18	0.07
+	12	310	0.19	0.15
+	13	110	0.07	0.04
+	14	106	0.07	0.04
+	15	97	0.06	0.05
+	16	122	0.08	0.03
+	17	116	0.07	0.07
+	18	105	0.07	0.06
+	19	97	0.06	0.03
+	20	99	0.06	0.10
+	21	103	0.06	0.05
+	22	119	0.07	0.05
+	23	99	0.06	0.09
+	24	100	0.06	0.03
+	25	96	0.06	0.07
+	26	101	0.06	0.03
+	27	96	0.06	0.07
+	28	85	0.05	0.02
+	29	88	0.06	0.05
+	30	90	0.06	0.07
+	Page 131 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Geographic Region Within a State (Based on County.  If County Is Missing, Based on 
+	Stratum.  )
+	Section: 	Sample Design and Weighting Variables	Type: 	Calculated
+	Columns:  827-828	SAS Variable Name:  	_REGION
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	31	75	0.05	0.05
+	32	69	0.04	0.11
+	33	77	0.05	0.04
+	34	79	0.05	0.15
+	35	82	0.05	0.03
+	Race Categories Used in Poststratification
+	Section: 	Sample Design and Weighting Variables	Type: 	Calculated
+	Column:  829	SAS Variable Name:  	_RACEG2_
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	0	Any Race	108192	67.62	41.81
+	1	White, Non-Hispanic	38275	23.92	40.90
+	2	Non-White or Hispanic	13522	8.45	17.29
+	Page 132 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Age Groups Used in Poststratification
+	Section: 	Sample Design and Weighting Variables	Type: 	Calculated
+	Columns:  830-831	SAS Variable Name:  	_AGEG_
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	0	69	0.04	0.11
+	1	18-24	13763	8.60	11.62
+	2	25-34	27528	17.21	17.53
+	3	35-44	34038	21.28	19.94
+	4	45-54	28531	17.83	16.49
+	5	55-64	18592	11.62	10.85
+	6	65+	28698	17.94	16.28
+	7	18-34	1444	0.90	1.29
+	8	35-54	1385	0.87	1.06
+	9	55+	1753	1.10	1.13
+	10	18-44	1946	1.22	1.80
+	11	45+	2242	1.40	1.90
+	Sex Categories Used in Poststratification
+	Section: 	Sample Design and Weighting Variables	Type: 	Calculated
+	Column:  832	SAS Variable Name:  	_SEXG_
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Male	65310	40.82	48.02
+	2	Female	94679	59.18	51.98
+	Page 133 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Imputed Age
+	Section: 	Sample Design and Weighting Variables	Type: 	Calculated
+	Columns:  833-834	SAS Variable Name:  	_IMPAGE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	18-24	14541	9.09	12.42
+	25-34	29245	18.28	19.04
+	35-44	35709	22.32	21.36
+	45-54	29974	18.74	17.71
+	55-64	19852	12.41	11.78
+	65-99	30668	19.17	17.69
+	FIPS Metropolitan Statistical Area Code
+	Section: 	Sample Design and Weighting Variables	Type: 	Calculated
+	Columns:  835-838	SAS Variable Name:  	_MSACODE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed	153215	100.00	100.00
+	Blank	County Code Missing	6774
+	Page 134 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	New Race Code
+	Section: 	Calculated Variables	Type: 	Calculated
+	Columns:  839-840	SAS Variable Name:  	RACE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	01	White Non-Hispanic	127292	79.56	73.06
+	02	Black Non-Hispanic	12524	7.83	9.68
+	03	White Hispanic	8276	5.17	8.81
+	04	Black Hispanic	1179	0.74	0.93
+	05	Other Hispanic	3917	2.45	3.07
+	06	Asian/Pacific Islander	2706	1.69	2.33
+	07	American Indian/Alaska Native	2218	1.39	0.91
+	08	Other Non-Hispanic	1085	0.68	0.72
+	99	Don't Know, Refused or Missing	792	0.50	0.50
+	Smoking Status
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  841	SAS Variable Name:  	_SMOKER2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Current-now Smoke Everyday	28838	18.02	17.43
+	2	Current-now smoke some days	7434	4.65	4.99
+	3	Former smoker	38163	23.85	23.81
+	4	Never Smoked	85095	53.19	53.47
+	9	Refused One or More Smoking Questions	459	0.29	0.31
+	Page 135 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Total Number of Drinks a Month
+	Section: 	Calculated Variables	Type: 	Calculated
+	Columns:  842-845	SAS Variable Name:  	_DRNKMO
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1-1000	Number of Drinks	72856	45.54	42.10
+	8888	Did Not Drink in past Month	78294	48.94	42.05
+	9999	Refused	8839	5.52	15.84
+	Weight for Height Percent of Median
+	Section: 	Calculated Variables	Type: 	Calculated
+	Columns:  846-850	SAS Variable Name:  	_WTFORHT
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1-99998	Valid Range	153578	95.99	95.89
+	99999	Unknown (two implied decimal places)	6411	4.01	4.09
+	Body Mass Index
+	Section: 	Calculated Variables	Type: 	Calculated
+	Columns:  851-853	SAS Variable Name:  	_BMI
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1-998	Valid range (one implied decimal place)	153810	96.14	96.06
+	999	Unknown	6179	3.86	3.93
+	Page 136 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Level of Physical Activity
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  854	SAS Variable Name:  	_TOTINDX
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Physically Inactive	8148	5.09	5.89
+	2	Irregular Activity	7669	4.79	5.63
+	3	Regular Activity	8635	5.40	6.12
+	4	Regular and vigorous activity	4125	2.58	2.70
+	9	Unknown	131412	82.14	79.67
+	Smokeless Status
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  855	SAS Variable Name:  	_SMKLESS
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Current User	1884	1.18	1.16
+	2	Former User	6634	4.15	4.38
+	3	Never Used	43430	27.15	32.60
+	9	Unknown	108041	67.53	61.85
+	Daily Servings of Fruits and Vegetables
+	Section: 	Calculated Variables	Type: 	Calculated
+	Columns:  856-860	SAS Variable Name:  	_FRTSERV
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	0-99998	18921	11.83	11.84
+	99999	Unknown (two implied decimal places)	141068	88.17	88.15
+	Page 137 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Summary Index of Fruits and Vegetables
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  861	SAS Variable Name:  	_FRTINDX
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Less than Once per Day or Never	775	0.48	0.47
+	2	1 to less than 3 Times per Day	6269	3.92	4.09
+	3	3 to less than 5 Times per Day	7135	4.46	4.35
+	4	5 or More Times per Day	4742	2.96	2.94
+	Blank,9	Unk/Refused	141068	88.17	88.15
+	Hypertension (2)
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  862	SAS Variable Name:  	_RFHYPE2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Had blood pressure checked and not told high by	117534	74.55	75.56
+	 health professional
+	2	Had blood pressure checked and told high by 	40115	25.45	24.44
+	health professional
+	Blank	Not Asked	2340
+	Page 138 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Current Smoking (Irregular and Regular)
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  863	SAS Variable Name:  	_RFSMOK2
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Have not smoked 100 cigarettes in lifetime or 	123258	77.04	77.27
+	have smoked, but do not currently do not smoke
+	2	Have smoked 100 cigarettes in lifetime and 	36272	22.67	22.42
+	currently smoke
+	9	Not applicable/refused	459	0.29	0.31
+	Acute Drinking
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  864	SAS Variable Name:  	_RFDRACU
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Did not have alcoholic beverages in past month 	136238	85.15	82.13
+	or had less than 5 or more drinks on an occasion
+	2	Had 5 or more alcoholic beverages in past month	20547	12.84	14.20
+	 on one or more occasions
+	9	Not applicable/refused	3204	2.00	3.67
+	Page 139 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Drinking and Driving
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  865	SAS Variable Name:  	_RFDRDRI
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Did not have alcoholic beverages in past month 	154092	96.31	94.65
+	or had alcoholic beverages but did not drive 
+	after having too much to drink
+	2	Had alcoholic beverages and drove after 	3609	2.26	2.32
+	drinking too much one or more times
+	9	Not applicable/refused	2288	1.43	3.03
+	Chronic Drinking
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  866	SAS Variable Name:  	_RFDRCHR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Did not have alcoholic beverages in past month 	146243	91.41	81.01
+	or had less than 60 drinks a month
+	2	Had 60 or more alcoholic beverages in past 	4907	3.07	3.15
+	month
+	9	Not applicable/refused	8839	5.52	15.84
+	Page 140 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	No Activity or Irregular Activity
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  867	SAS Variable Name:  	_RFLIFES
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Did physical activity for 20 or more minutes, 3 	12760	7.98	8.81
+	or more times per week
+	2	No physical activity or less than 20 minutes of 	15817	9.89	11.52
+	activity, 3 or more times per week
+	9	Not applicable/refused	131412	82.14	79.67
+	Regular and Sustained Pattern
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  868	SAS Variable Name:  	_RFREGUL
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Did physical activity for 30 or more minutes, 5 	6266	3.92	4.20
+	or more times per week, regardless of intensity
+	2	No physical activity or less than 30 minutes of 	22311	13.95	16.13
+	activity, 5 or more times per week
+	9	Not applicable/refused	131412	82.14	79.67
+	Page 141 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Greater Than or Equal to 120% of Median
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  869	SAS Variable Name:  	_RFOBESE
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Reported weight is less than 120% of ideal 	93710	58.57	58.71
+	weight
+	2	Reported weight is equal to or greater than 	59869	37.42	37.21
+	120% of ideal weight
+	9	Not applicable/refused	6410	4.01	4.08
+	Based on Body Mass Index (BMI)
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  870	SAS Variable Name:  	_RFWHBMI
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Females with BMI less than 27.3; males with 	101452	63.41	63.41
+	BMI less than 27.8
+	2	Females with BMI equal to or greater than 27.3; 	52318	32.70	32.63
+	males with BMI equal to greater than 27.8
+	9	Not applicable/refused	6219	3.89	3.96
+	Page 142 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Current Smokeless Tobacco User
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  871	SAS Variable Name:  	_RFTOBAC
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Have not used smokeless tobacco or have used 	50064	31.29	36.99
+	in past but not a current user
+	2	Have used smokeless tobacco and is a current 	1884	1.18	1.16
+	user
+	9	Not applicable/refused	108041	67.53	61.85
+	Cholesterol Checked
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  872	SAS Variable Name:  	_CHOLCHK
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Cholesterol checked within past 5 years.	108537	68.47	68.02
+	2	Cholesterol not checked within past 5 years	6703	4.23	3.90
+	3	Cholesterol Never Checked	37301	23.53	24.53
+	9	Not applicable/refused	5984	3.77	3.55
+	Blank	Not Asked	1464
+	Blood Pressure Checked
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  873	SAS Variable Name:  	_BPCHECK
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	Blood pressure checked within past 2 years	148584	92.87	91.10
+	2	Blood pressure not checked within past 2 years	8458	5.29	5.78
+	9	Not applicable/refused	2947	1.84	3.12
+	Page 143 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Reported Age in 18-34, 35-54, and 55+ Age Groups
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  874	SAS Variable Name:  	_AGEG
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	18-34	43786	27.51	31.59
+	2	35-54	64839	40.74	38.80
+	3	55+	50515	31.74	29.60
+	Blank	Age Missing	849
+	Reported Age in 5 Year Age Groups
+	Section: 	Calculated Variables	Type: 	Calculated
+	Columns:  875-876	SAS Variable Name:  	_AGEG5YR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	18-24	14541	9.09	12.42
+	2	25-29	13789	8.62	9.27
+	3	30-34	15456	9.66	9.77
+	4	35-39	17967	11.23	10.74
+	5	40-44	17584	10.99	10.52
+	6	45-49	15755	9.85	9.20
+	7	50-54	13533	8.46	8.17
+	8	55-59	10804	6.75	6.46
+	9	60-64	9043	5.65	5.32
+	10	65-69	9138	5.71	5.69
+	11	70-74	8291	5.18	5.07
+	12	75-79	6732	4.21	3.79
+	13	80+	6507	4.07	3.15
+	14	Refused	849	0.53	0.44
+	Page 144 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	Reported Age in 18-64 and 65+ Age Groups
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  877	SAS Variable Name:  	_AGE65YR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	18-64	128472	80.30	81.87
+	2	65+	30668	19.17	17.69
+	3	Refused	849	0.53	0.44
+	Race Grouped
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  878	SAS Variable Name:  	_RACEG
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	White Non-Hispanic	127292	79.56	73.06
+	2	Non-White or Hispanic	31905	19.94	26.44
+	9	Don't Know, Refused, Missing	792	0.50	0.50
+	Race Grouped Another Way
+	Section: 	Calculated Variables	Type: 	Calculated
+	Column:  879	SAS Variable Name:  	_RACEGR
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	1	White Non-Hispanic	127292	79.56	73.06
+	2	Black Non-Hispanic	12524	7.83	9.68
+	3	Hispanic	13372	8.36	12.81
+	4	Other	6009	3.76	3.95
+	9	Don't Know, Refused, Missing	792	0.50	0.50
+	Page 145 of 146
+
+
+	1999 BRFSS Codebook	08-Aug-00
+	End-of-Record Marker
+	Section: 	Calculated Variables	Type: 	Miscellaneous
+	Column:  880	SAS Variable Name:  	End-of-Record Marker
+	Weighted
+	Value	Value Label	Frequency	Percent	Percent
+	Suppressed	1 for all records
+	Page 146 of 146
